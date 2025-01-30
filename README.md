@@ -1,4 +1,3 @@
-# Kleiton-Santos-Macedo
 <h1>Olá, me chamo Kleiton Santos Macedo<h1/>
 <h2>Sou uma desenvolvedor Front-End. Tenho conhecimento de HTML, CSS, JS, React e Node. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos usando elas.</h2>
 <p>Uso as seguintes técnologias em Front End:</p>
@@ -22,3 +21,6 @@
   </li>
 </ul>
 <div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonMac)](https://github.com/anuraghazra/github-readme-stats)
+
