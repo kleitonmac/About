@@ -22,5 +22,3 @@
   </li>
 </ul>
 <div>
-
-[![Anurag's GitHub stats](https://github.com/kleitonmac)]()
