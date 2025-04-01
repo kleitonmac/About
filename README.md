@@ -11,7 +11,7 @@
 <p>Uso as seguintes técnologias em Back End:</p>
 <ul>
   <li> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
-  <li> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></li>
+  <li> <img src="https://www.google.com/imgres?q=icons%20sql&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fasnia%2Fasnia1707%2Fasnia170700318%2F83206225-cone-do-banco-de-dados-sql-logo-design-ui-ou-ux-app-inscri%25C3%25A7%25C3%25A3o-laranja-com-sombra.jpg&imgrefurl=https%3A%2F%2Fpt.123rf.com%2Fphoto_83206225_cone-do-banco-de-dados-sql-logo-design-ui-ou-ux-app-inscri%25C3%25A7%25C3%25A3o-laranja-com-sombra.html&docid=RHP7s2vueA2tIM&tbnid=WJuOWe1E_qLEJM&vet=12ahUKEwiPoe3kibaMAxWWP7kGHS5JF7QQM3oECBkQAA..i&w=1299&h=1300&hcb=2&ved=2ahUKEwiPoe3kibaMAxWWP7kGHS5JF7QQM3oECBkQAA"></li>
 </ul>
 
 <p>Entre em contato comigo:</p>
