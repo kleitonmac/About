@@ -15,7 +15,7 @@
 <ul>
   <li> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li> <img src="https://img.icons8.com/?size=100&id=14468&format=png&color=000000"></li>
- <li> <img src="https://img.icons8.com/3d-fluency/94/python.png"></li>
+ <li> <img src="https://img.icons8.com/3d-fluency/20/python.png"></li>
  <li> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"></li>
 </ul>
 
