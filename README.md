@@ -1,9 +1,9 @@
 <h1>Olá, me chamo Kleiton Santos Macedo<h1/>
-<h2>Sou uma desenvolvedor Front-End. Tenho conhecimento de HTML, CSS, JS, React e Node. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos usando elas.</h2>
+<h2>Sou uma desenvolvedor Full-Stack. Tenho conhecimento de HTML, CSS, JS, React e Node. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos usando elas.</h2>
     <img src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
 
   
-<p>Uso as seguintes técnologias em Front End:</p>
+<p>Uso as seguintes técnologias em Front En:</p>
 <ul>
   <li> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> </li>
   <li> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> </li>
