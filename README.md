@@ -15,14 +15,14 @@
 <ul>
   <li> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li> <img src="https://img.icons8.com/?size=30&id=14468&format=png&color=000000"></li>
- <li> <img src="https://img.icons8.com/3d-fluency/30/python.png"></li>
- <li> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"></li>
+ <li> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg></li>
+ 
 </ul>
 
 <p>Entre em contato comigo:</p>
 <ul>
   <li> <a href="https://www.linkedin.com/in/kleiton-santos-macedo-8322a7235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/>
-  <li> <a href="kleiton76@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
+  <li> <a href="kdevprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
   </li>
 </ul>
 <div>
