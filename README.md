@@ -15,7 +15,7 @@
 <ul>
   <li><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li><img src="https://img.icons8.com/?size=30&id=14468&format=png&color=000000"></li>
- <li><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></li>
+ <li><img src="https://icons8.com/icon/13679/java"></li>
  
 </ul>
 
