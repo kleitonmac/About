@@ -14,7 +14,7 @@
 <p>Uso as seguintes tecnologias em Back-End:</p>
 <ul>
   <li><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
-  <li><img src="https://img.icons8.com/?size=30&id=14468&format=png&color=000000"></li>
+  <li><img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"></li>
  <li><img src="https://img.icons8.com/?size=30&id=13679&format=png&color=000000"></li>
  
 </ul>
