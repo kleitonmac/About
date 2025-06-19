@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
         
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Me+chamo+Sávio+e+tenho+20+anos,;Sou+Desenvolvedor+FullStack;Bem+vindo!+:%29)](https://git.io/typing-svg)     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Me+chamo+Kleiton+e+tenho+28+anos,;Sou+Desenvolvedor+FullStack;Bem+vindo!+:%29)](https://git.io/typing-svg)     
      
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   <br>              
@@ -8,13 +8,13 @@
    
   <a href="https://github.com/kleitonmac/About"> 
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savio-Anjos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kleiton-Macedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Anjos&layout=compact&langs_count=7&theme=algolia"/>  
        
 </div>  
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Savio-Anjos&theme=algolia&border_radius=8"/>
+<img src="https://streak-stats.demolab.com?user=Kleiton-Macedo&theme=algolia&border_radius=8"/>
 </div>
        
 <h2 align="left">My Skills Front-End</h2>
@@ -86,37 +86,3 @@
   <a href="https://www.linkedin.com/in/kleitonmacedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-</div>      
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
-
-<h1>Olá, me chamo Kleiton Santos Macedo<h1/>
-<h2>Sou um desenvolvedor Full-Stack. Tenho conhecimento de HTML, CSS, JS, React e Node. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos usando elas.</h2>
-    <img src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-  
-<p>Uso as seguintes tecnologias em Front-End:</p>
-<ul>
-  <li> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> </li>
-  <li> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> </li>
-  <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
-  <li> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></li>
-</ul>
-  
-<p>Uso as seguintes tecnologias em Back-End:</p>
-<ul>
-  <li><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
-  <li><img src="https://img.icons8.com/?size=30&id=J6KcaRLsTgpZ&format=png&color=000000"></li>
- <li><img src="https://img.icons8.com/?size=30&id=13441&format=png&color=000000"></li>
- 
-</ul>
-
-<p>Entre em contato comigo:</p>
-<ul>
-  <li> <a href="https://www.linkedin.com/in/kleiton-santos-macedo-8322a7235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/>
-  <li> <a href="kdevprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
-  </li>
-</ul>
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonMac)](https://github.com/anuraghazra/github-readme-stats)
-
