@@ -14,7 +14,7 @@
 </div>  
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Kleiton-Macedo&theme=algolia&border_radius=8"/>
+<img src="https://streak-stats.demolab.com?user=Kleitonmac&theme=algolia&border_radius=8"/>
 </div>
        
 <h2 align="left">My Skills Front-End</h2>
