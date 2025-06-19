@@ -51,7 +51,7 @@
 
  <img align="center" alt="Kleiton-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 
-  <img align="center" alt="Kleiton-Vitest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"/>
+  <img align="center" alt="Kleiton-Vitest" height="50" width="60" src="https://icons8.com.br/icon/13441/python"/>
                                                                                                                                                      
 </div>  
   
