@@ -8,8 +8,9 @@
    
   <a href="https://github.com/kleitonmac/About"> 
   
- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia"/>  
- <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+ <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia"/>
+ <img align="right" alt="GIF" src="https://github.com/kleitonmac/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+ 
 </div>  
 
 
