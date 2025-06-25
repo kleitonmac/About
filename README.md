@@ -15,7 +15,8 @@
 <div>
          <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-       
+       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleitonmac&show_icons=true&locale=en&layout=compact&count_private=True&langs_count=15&theme=dark" alt="kleiton" /></p>
+
 <h2 align="left">My Skills Front-End</h2>
 <div style="display: inline_block"><br>
  
