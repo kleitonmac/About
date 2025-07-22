@@ -49,7 +49,7 @@
 
 <img align="center" alt="Kleiton-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
 
- <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+ <img align="center" width="60" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
  
  <img align="center" alt="Kleiton-Django" height="50" width="60" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo" />
   
