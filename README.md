@@ -59,27 +59,28 @@
 
 <h2 align="left">My Soft Skills</h2>
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 30px; align-items: center;">
 
   <!-- Trabalho em Equipe -->
   <div style="text-align: center;">
-    <img align="center" height="50" width="60" src="https://private-user-images.githubusercontent.com/77682711/441382993-bede1cfa-8c6e-43b6-9cbd-163d00978884.png"/>
+    <img align="center" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png"/>
     <p>Trabalho em Equipe</p>
   </div>
 
   <!-- Comunicação -->
   <div style="text-align: center;">
-    <img align="center" height="50" width="60" src="https://img.icons8.com/ios-filled/50/communication.png"/>
+    <img align="center" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png"/>
     <p>Comunicação</p>
   </div>
 
   <!-- Resolução de Problemas -->
   <div style="text-align: center;">
-    <img align="center" height="50" width="60" src="https://img.icons8.com/ios-filled/50/solution.png"/>
+    <img align="center" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png"/>
     <p>Resolução de Problemas</p>
   </div>
 
 </div>
+
 
 ---
 
