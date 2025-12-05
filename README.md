@@ -59,24 +59,24 @@
 
 <h2 align="left">My Soft Skills</h2>
 
-<div style="display: inline_block">
+<div align="center">
 
   <!-- Trabalho em Equipe -->
-  <div style="text-align: center;">
-    <img align="left" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png"/>
-    <p>Trabalho em Equipe</p>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png"/>
+    <p><strong>Trabalho em Equipe</strong></p>
   </div>
 
   <!-- Comunicação -->
-  <div style="text-align: center;">
-    <img align="left" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png"/>
-    <p>Comunicação</p>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png"/>
+    <p><strong>Comunicação</strong></p>
   </div>
 
   <!-- Resolução de Problemas -->
-  <div style="text-align: center;">
-    <img align="left" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png"/>
-    <p>Resolução de Problemas</p>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png"/>
+    <p><strong>Resolução de Problemas</strong></p>
   </div>
 
 </div>
