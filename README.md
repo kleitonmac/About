@@ -12,9 +12,6 @@
 </div> 
 
 <div>
-        <img src="https://raw.githubusercontent.com/kleitonmac/kleitonmac/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</div>
-<div>
          <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia"/>
      
 </div>
