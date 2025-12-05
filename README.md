@@ -11,7 +11,9 @@
  <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" /> 
 </div> 
 
-
+<div>
+        <img src="https://raw.githubusercontent.com/kleitonmac/kleitonmac/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</div>
 <div>
          <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia"/>
      
