@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
         
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Me+chamo+Kleiton+e+tenho+28+anos,;Sou+Desenvolvedor+FullStack;Bem+vindo!+:%29)](https://git.io/typing-svg)     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Me+chamo+Kleiton+e+tenho+28+anos,;Sou+Desenvolvedor+FullStack;Bem+vindo!+:%29)](https://git.io/typing-svg)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia)
+
      
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   <br>              
@@ -12,7 +14,7 @@
 </div> 
 
 <div>
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&langs_count=7&theme=algolia)
+        
      
 </div>
 
