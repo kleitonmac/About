@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Me+chamo+Kleiton+e+tenho+28+anos,;Sou+Desenvolvedor+FullStack;Bem+vindo!+:%29)](https://git.io/typing-svg)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 
 
