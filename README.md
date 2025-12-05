@@ -24,7 +24,7 @@
 
 ---
 
-# 🎨 <img src="https://img.icons8.com/?size=100&id=H3zddW6PiWW2&format=png&color=000000"> My Skills – Front-End
+#  <img src="https://img.icons8.com/?size=100&id=H3zddW6PiWW2&format=png&color=000000" size="30"> My Skills – Front-End
 
 <div style="display: inline_block"><br>
 
