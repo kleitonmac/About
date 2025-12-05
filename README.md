@@ -59,7 +59,7 @@
 
 <h2 align="left">My Soft Skills</h2>
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: inline_block; gap: 30px; align-items: left;">
 
   <!-- Trabalho em Equipe -->
   <div style="text-align: center;">
