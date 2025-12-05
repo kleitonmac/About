@@ -24,8 +24,8 @@
 
 ---
 
-# div>
-<img width="30" src="https://cdn-icons-png.flaticon.com/512/1829/1829588.png"> My Skills – Front-End
+# <img width="30" src="https://cdn-icons-png.flaticon.com/512/1829/1829588.png"> My Skills – Front-End
+
 <div style="display: inline_block"><br>
 
 <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
