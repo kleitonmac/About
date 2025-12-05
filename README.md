@@ -24,7 +24,7 @@
 
 ---
 
-# <img width="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/touchscreen.png"> My Skills – Front-End
+# 🎨 My Skills – Front-End
 
 <div style="display: inline_block"><br>
 
