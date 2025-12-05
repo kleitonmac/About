@@ -41,7 +41,7 @@
 
 ---
 
-# ⚙️ My Skills – Back-End
+# <img src="https://img.icons8.com/?size=100&id=8RWE1KUKt5Ww&format=png&color=000000" widht="60" height"50"> My Skills – Back-End
 <div style="display: inline_block"><br>
 
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
