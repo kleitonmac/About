@@ -63,6 +63,8 @@
  <br >
  
  <h2 align="left">My Soft Skills</h2>
+ <img align="center" alt="Trabalho-em-equipe" height="50" width="60" src="https://private-user-images.githubusercontent.com/77682711/441382993-bede1cfa-8c6e-43b6-9cbd-163d00978884.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ5NDY2MDMsIm5iZiI6MTc2NDk0NjMwMywicGF0aCI6Ii83NzY4MjcxMS80NDEzODI5OTMtYmVkZTFjZmEtOGM2ZS00M2I2LTljYmQtMTYzZDAwOTc4ODg0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA1VDE0NTE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzOTQ4M2Y1ZGJjNmI5ZjI3MzJhOWE3ODYxZDhjZjNkMTg0ZDlmODM2NjIxNjcxM2M0M2M0Njg3YzlmZWVmYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N8cZ0RxWIXli4B2B1r5SRJ4tkJoqjy5tFxQIFFf7ibw"/>
+ 
     
 <div>  
 <h2 align="left">Contato</h2>
