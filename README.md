@@ -57,8 +57,6 @@
 
 # 🧠 My Soft Skills
 
-<h2 align="left">My Soft Skills</h2>
-
 <div style="display: inline_block"><br>
 
   <img align="center" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" title="Trabalho em Equipe">
