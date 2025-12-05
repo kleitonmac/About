@@ -43,7 +43,7 @@
    
   <h2 align="left">My Skills Back-End</h2> 
 <div style="display: inline_block"><br>
-  
+
   
  <img align="center" alt="Kleiton-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
@@ -60,8 +60,9 @@
   <img align="center" alt="Kleiton-Python" height="50" width="60" src="https://img.icons8.com/color/48/python--v1.png"/>
                                                                                                                                                      
 </div>  
-  
  <br >
+ 
+ <h2 align="left">My Soft Skills</h2>
     
 <div>  
 <h2 align="left">Contato</h2>
