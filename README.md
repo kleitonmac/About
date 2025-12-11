@@ -22,7 +22,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 ## 🔥 Projetos Principais
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
-| [**Barbearia Novo Estilo**](https://github.com/kleitonmac/barbearia-novo-estilo) | Sistema completo de agendamento | React + Tailwind + Supabase |
+| [**Barbearia Novo Estilo**](https://github.com/kleitonmac/barbearia-novo-estilo) | Sistema completo de agendamento | React + Tailwind + MongoDB |
 | [**To-Do List Pro**](https://kdevlistadetarefas.vercel.app/) | Aplicação de produtividade | React + Vite |
 | [**KDev Portfolio**](https://kleiton-dev.vercel.app/) | Meu portfólio profissional | Next.js + Tailwind |
 
