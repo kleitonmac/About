@@ -44,24 +44,14 @@ Aqui você vai encontrar meus projetos, estudos e evolução como profissional.
 
 <div align="center">
 
-### Tecnologias que uso
+### Tecnologias que utilizo
 
-<!-- FRONT-END -->
-<img src="https://img.shields.io/badge/HTML5-1e40af?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1e40af?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-1e40af?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-1e40af?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1e40af?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+My Skills – Front-End & Back-End (Versão Unificada e Profissional)
+🚀 Front-End
+<div style="display: inline_block"><br> <!-- SHIELDS --> <img src="https://img.shields.io/badge/HTML5-1e40af?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-1e40af?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-1e40af?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-1e40af?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-1e40af?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-1e40af?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-1e40af?style=for-the-badge&logo=bootstrap&logoColor=white" /> <br> <!-- ÍCONES DEVICON --> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </div>
 
-<!-- BACK-END -->
-</br>
-<img src="https://img.shields.io/badge/Node.js-1e40af?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-1e40af?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-1e40af?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-1e40af?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1e40af?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white" />
+⚙️ Back-End
+<div style="display: inline_block"><br> <!-- SHIELDS --> <img src="https://img.shields.io/badge/Node.js-1e40af?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-1e40af?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Django-1e40af?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-1e40af?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-1e40af?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white" /> <br> <!-- ÍCONES DEVICON --> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" width="60" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png"> <img align="center" height="50" width="60" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/> <img align="center" height="50" width="60" src="https://img.icons8.com/color/48/python--v1.png"/> </div>
 
 ---
 
