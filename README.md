@@ -60,6 +60,10 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 <img src="https://img.shields.io/badge/PostgreSQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0ea5e9?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-0ea5e9?style=for-the-badge&logo=php&logoColor=white"/>
+
 
 </div>
 
