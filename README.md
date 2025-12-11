@@ -19,31 +19,32 @@
 </br>
 
 <div align="center">
-  <!-- Seção Sobre Mim melhorada -->
-  <div align="justify" style="max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
-    
-    ### 👨‍💻 Sobre Mim
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=22&duration=3000&pause=1000&color=1e40af&background=FFFFFF00&width=500&height=30&lines=Olá,+eu+sou+Kleiton+Macedo!+🚀;Desenvolvedor+FullStack+com+8+anos+de+experiência;Especialista+em+Soluções+Escaláveis+e+Inovadoras)](https://git.io/typing-svg)
+  
+  ### 👨‍💻 Sobre Mim
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=22&duration=3000&pause=1000&color=1e40af&background=FFFFFF00&width=500&height=30&lines=Olá,+eu+sou+Kleiton+Macedo!+🚀;Desenvolvedor+FullStack+Profissional;Transformando+ideias+em+código+eficiente)](https://git.io/typing-svg)
 
-    Sou um **Desenvolvedor FullStack Sênior** com foco em criar soluções digitais robustas e escaláveis. Com experiência em diversas tecnologias e metodologias ágeis, busco sempre entregar produtos de alta qualidade que atendam às necessidades do negócio e proporcionem excelente experiência ao usuário.
+</div>
 
-    **Minha abordagem de trabalho:**
-    - 🔍 **Análise Profunda**: Compreensão detalhada dos requisitos e objetivos do projeto
-    - 🏗️ **Arquitetura Sólida**: Desenvolvimento de estruturas escaláveis e de fácil manutenção
-    - 🔄 **Metodologias Ágeis**: Experiência em Scrum e Kanban para entrega contínua de valor
-    - 🧪 **Testes e Qualidade**: Implementação de testes automatizados e boas práticas de código
-    - 📊 **Monitoramento**: Configuração de métricas e alertas para garantir performance
+<div align="justify" style="max-width: 800px; margin: 20px auto; padding: 25px; background: #f8fafc; border-radius: 10px; border-left: 5px solid #1e40af;">
 
-    **Áreas de especialização:**
-    - Desenvolvimento de APIs RESTful e GraphQL
-    - Arquitetura de microsserviços e sistemas distribuídos
-    - Implementação de CI/CD e automação de pipelines
-    - Otimização de performance e escalabilidade
-    - Gestão de bancos de dados relacionais e não-relacionais
+Sou um **Desenvolvedor FullStack** com experiência sólida em desenvolvimento web moderno. Minha paixão por tecnologia me levou a dominar tanto o front-end quanto o back-end, criando soluções completas e escaláveis.
 
-    Atualmente estou focado em **arquiteturas serverless** e **inteligência artificial aplicada**, explorando como essas tecnologias podem revolucionar o desenvolvimento de software moderno.
+**Minha experiência inclui:**
+- 🎯 **Desenvolvimento FullStack** com foco em performance e qualidade
+- 🔧 **Arquitetura de sistemas** robustos e de fácil manutenção
+- 🚀 **Implementação de boas práticas** e padrões de código
+- 📱 **Criação de interfaces responsivas** e intuitivas
+- 🔗 **Integração de APIs** e serviços externos
 
-  </div>
+**Atualmente trabalho com:**
+- React, TypeScript e Node.js para aplicações modernas
+- Tailwind CSS e Bootstrap para estilização eficiente
+- PostgreSQL e MongoDB para gestão de dados
+- Docker e AWS para deploy e infraestrutura
+- Metodologias ágeis para gestão de projetos
+
+Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e contribuir com projetos inovadores. Acredito que a combinação de código limpo, boas práticas e comunicação eficaz é a chave para o sucesso de qualquer projeto.
+
 </div>
 
 </br>
@@ -180,7 +181,7 @@
   ### 💼 Disponível para colaborações e novos desafios!
   
   <p align="center">
-    "A tecnologia move o mundo, mas a inovação define seu destino." - Kleiton Macedo
+    "O código é poesia lógica que transforma ideias em realidade." - Kleiton Macedo
   </p>
   
   <p align="center">
