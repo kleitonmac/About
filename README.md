@@ -1,23 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
-
-<!-- BANNER COM DOIS GIFS EM COLUNAS -->
-<div align="center">
-  <table>
-    <tr>
-      <!-- Coluna esquerda: GIF do programador -->
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px;" alt="Code Development" />
-      </td>
-      <!-- Coluna direita: GIF animado com borda redonda -->
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 50%; border: 3px solid #1e40af;" alt="Animated Tech" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-</br>
-
 <div align="center">
   
   ### 👨‍💻 Sobre Mim
@@ -46,6 +26,30 @@ Sou um **Desenvolvedor FullStack** com experiência sólida em desenvolvimento w
 Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e contribuir com projetos inovadores. Acredito que a combinação de código limpo, boas práticas e comunicação eficaz é a chave para o sucesso de qualquer projeto.
 
 </div>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
+
+<!-- BANNER COM DOIS GIFS EM COLUNAS -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Coluna esquerda: GIF do programador -->
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px;" alt="Code Development" />
+      </td>
+      <!-- Coluna direita: GIF animado com borda redonda -->
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 50%; border: 3px solid #1e40af;" alt="Animated Tech" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</br>
+
+
 
 </br>
 
