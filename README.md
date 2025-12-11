@@ -41,9 +41,11 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 <img src="https://img.shields.io/badge/HTML5-1e40af?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-1e40af?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-1e40af?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-1e40af?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-1e40af?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-1e40af?style=for-the-badge&logo=vite&logoColor=white"/>
+
 
 </div>
 
