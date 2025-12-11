@@ -1,28 +1,47 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
 
-<!-- BANNER COM GIF PROFISSIONAL -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000px" height="300px" alt="Code Development" />
-</p>
+<!-- BANNER COM DOIS GIFS EM COLUNAS -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Coluna esquerda: GIF do programador -->
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px;" alt="Code Development" />
+      </td>
+      <!-- Coluna direita: GIF animado com borda redonda -->
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 50%; border: 3px solid #1e40af;" alt="Animated Tech" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-</br> 
+</br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width=320 align="left" style="border-radius: 50%;">
-  
-  <div align="justify">
+  <!-- Seção Sobre Mim melhorada -->
+  <div align="justify" style="max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
+    
+    ### 👨‍💻 Sobre Mim
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=22&duration=3000&pause=1000&color=1e40af&background=FFFFFF00&width=500&height=30&lines=Olá,+eu+sou+Kleiton+Macedo!+🚀;Desenvolvedor+FullStack+com+8+anos+de+experiência;Especialista+em+Soluções+Escaláveis+e+Inovadoras)](https://git.io/typing-svg)
 
-  ### 👋 Sobre Mim
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=22&duration=3000&pause=1000&color=1e40af&background=FFFFFF00&width=500&height=30&lines=Olá,+eu+sou+Kleiton+Macedo!+👨‍💻;Desenvolvedor+FullStack+Profissional;+28+anos+de+experiência+de+vida;Transformando+ideias+em+soluções+digitais!)](https://git.io/typing-svg)
+    Sou um **Desenvolvedor FullStack Sênior** com foco em criar soluções digitais robustas e escaláveis. Com experiência em diversas tecnologias e metodologias ágeis, busco sempre entregar produtos de alta qualidade que atendam às necessidades do negócio e proporcionem excelente experiência ao usuário.
 
-  Sou um **Desenvolvedor FullStack** apaixonado por tecnologia e inovação. Com foco em criar soluções escaláveis e eficientes, combino expertise técnica com visão de negócios para entregar produtos de alta qualidade. Minha experiência abrange desde o desenvolvimento de interfaces intuitivas até a construção de APIs robustas e arquiteturas de backend.
+    **Minha abordagem de trabalho:**
+    - 🔍 **Análise Profunda**: Compreensão detalhada dos requisitos e objetivos do projeto
+    - 🏗️ **Arquitetura Sólida**: Desenvolvimento de estruturas escaláveis e de fácil manutenção
+    - 🔄 **Metodologias Ágeis**: Experiência em Scrum e Kanban para entrega contínua de valor
+    - 🧪 **Testes e Qualidade**: Implementação de testes automatizados e boas práticas de código
+    - 📊 **Monitoramento**: Configuração de métricas e alertas para garantir performance
 
-  **Principais competências:**
-  - 🎯 Desenvolvimento FullStack com foco em performance
-  - 🔄 Metodologias ágeis e trabalho em equipe
-  - 📊 Resolução de problemas complexos
-  - 🚀 Implementação de melhores práticas e padrões de código
-  - 💡 Capacidade de aprendizado rápido e adaptação
+    **Áreas de especialização:**
+    - Desenvolvimento de APIs RESTful e GraphQL
+    - Arquitetura de microsserviços e sistemas distribuídos
+    - Implementação de CI/CD e automação de pipelines
+    - Otimização de performance e escalabilidade
+    - Gestão de bancos de dados relacionais e não-relacionais
+
+    Atualmente estou focado em **arquiteturas serverless** e **inteligência artificial aplicada**, explorando como essas tecnologias podem revolucionar o desenvolvimento de software moderno.
 
   </div>
 </div>
@@ -74,7 +93,7 @@
     <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" title="Trabalho em Equipe">
     <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png" title="Comunicação Efetiva">
     <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" title="Resolução de Problemas">
-    <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" title="Liderança">
+    <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" title="Liderança Técnica">
     <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png" title="Gestão de Tempo">
     <img align="center" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/2491/2491959.png" title="Pensamento Crítico">
   </div>
@@ -158,24 +177,16 @@
     <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px" alt="Coding" />
   </p>
   
-  ### 💼 Disponível para novas oportunidades!
+  ### 💼 Disponível para colaborações e novos desafios!
   
   <p align="center">
-    "O único limite para nossa realização de amanhã são as nossas dúvidas de hoje." - Franklin D. Roosevelt
+    "A tecnologia move o mundo, mas a inovação define seu destino." - Kleiton Macedo
   </p>
   
   <p align="center">
-    ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+    ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutir projetos interessantes!
   </p>
   
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
-
-<!--
-⭐ Se você gostou deste README, deixe uma estrela no repositório!
-Obrigado pela visita! 😊
-
-⭐ If you liked this README, leave a star on the repository!
-Thanks for visiting! 😊
--->
