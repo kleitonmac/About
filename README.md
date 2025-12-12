@@ -76,8 +76,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
   <img align="left" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png" title="Comunicação">
   <img align="left" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" title="Resolução de Problemas">
 </div>
-<br>
-<br>
+<br><br>
 
 
 
