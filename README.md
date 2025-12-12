@@ -79,9 +79,9 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 <br><br>
 
 
-
-# 📊 Estatísticas
 ---
+# 📊 Estatísticas
+
 
 ### Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
