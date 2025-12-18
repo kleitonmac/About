@@ -24,7 +24,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 |--------|-----------|--------------|
 | [**Barbearia Novo Estilo**](https://novoestilo.vercel.app/) | Sistema completo de agendamento | React + Tailwind + MongoDB |
 | [**To-Do List Pro**](https://kdevlistadetarefas.vercel.app/) | Aplicação de produtividade | React + Vite |
-| [**KDev Portfolio**](https://kleitondev.vercel.app/) | Meu portfólio profissional | Next.js + Tailwind |
+| [**Portfolio**](https://kleitondev.vercel.app/) | Meu portfólio profissional | Next.js + Tailwind |
 
 ---
 
