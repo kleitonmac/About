@@ -100,7 +100,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, especializado em cria
 <a href="https://discord.com/channels/@me">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="mailto:kdevprofissional@gmail.com">
+<a href="mailto:contatokleimacedo@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/kleitonmacedo/" target="_blank">
