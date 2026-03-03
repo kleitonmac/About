@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
 
-### Snake Animation
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> </picture>
-
 # 👋 Olá, eu sou Kleiton Macedo
 
 🎯 Desenvolvedor Full Stack  
@@ -136,6 +133,9 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 # 📊 Estatísticas GitHub
 
 ### Activity Graph [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+### Snake Animation
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> </picture>
 
 # 📬 Contato
 
