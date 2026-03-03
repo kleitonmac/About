@@ -131,10 +131,7 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 
 # 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleitonmac&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&theme=tokyonight)
-
+### Activity Graph [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) ### Snake Animation <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> </picture> ---
 ---
 
 # 📬 Contato
