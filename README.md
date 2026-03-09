@@ -95,19 +95,18 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 - React
 - TypeScript
 - JavaScript
-- Next.js
 - Tailwind CSS
 - Styled-Components
 - Vite
 
 ## Back-End
 - Node.js
+- Golang
 - Express
 - MongoDB
 - PostgreSQL
 - MySQL
-- Django
-- PHP
+
 
 ## DevOps & Ferramentas
 - Docker
