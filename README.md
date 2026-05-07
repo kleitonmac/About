@@ -18,11 +18,58 @@ Tenho experiência prática com:
 - Desenvolvimento Front-End com React e TypeScript
 - Construção de APIs RESTful com Node.js
 - Autenticação com JWT
-- Modelagem de banco de dados (MongoDB e SQL)
+- Modelagem de banco de dados (MongoDB e POstgresSQL)
 - Integração completa entre Front-End e Back-End
 - Deploy de aplicações em produção
 
 Busco oportunidades como **Desenvolvedor Full Stack**, contribuindo com código organizado, arquitetura limpa e foco em resultado.
+
+
+# 🚀 Projetos Full Stack em Produção
+
+## 🔥 Fluxa Finanças  
+🔗 https://fluxafinancas.vercel.app/
+
+Fluxa Dashboard é um sistema full-stack para controlar finanças pessoais e vendas. Ele oferece autenticação segura, cadastro de categorias, registro de despesas e vendas, visualização de indicadores financeiros e geração de relatórios em CSV e PDF.
+
+**Destaques técnicos:**
+- Autenticação com e-mail/senha
+- Login com Google e GitHub
+- Token JWT de acesso e refresh token armazenado em cookie HTTP-only
+- Cadastro, listagem, edição e exclusão de categorias financeiras
+- Registro e listagem de despesas por categoria
+- Resumo financeiro mensal e anual
+- Cadastro e listagem de pedidos de vendas
+- Relatórios de vendas com receita mensal, mix de canais e ticket médio
+- Exportação de despesas em CSV
+- Geração de relatório PDF financeiro completo
+- Documentação Swagger acessível via rota `/api/docs`
+- Endpoint de health check `/health`
+
+
+**Stack:** 
+- Node.js
+- Express
+- PostgreSQL
+- React
+- Vite
+- Tailwind CSS
+- Axios
+- JWT (jsonwebtoken)
+- bcryptjs
+- passport-github2
+- passport-google-oauth20
+- @react-oauth/google
+- pdfkit
+- dotenv
+- helmet
+- cors
+- express-rate-limit
+- swagger-ui-express
+- yamljs
+- concurrently
+- nodemon
+
 
 ---
 
@@ -38,7 +85,7 @@ Sistema completo de agendamento online com autenticação e painel administrativ
 - Controle de usuários
 - CRUD completo
 - Integração com API REST
-- Banco de dados MongoDB
+- Banco de dados MongoDB 
 - Deploy em produção
 
 **Stack:** TypeScript + React + Node.js + MongoDB + Styled-Components  
