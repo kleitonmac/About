@@ -69,6 +69,7 @@ Fluxa Dashboard é um sistema full-stack para controlar finanças pessoais e ven
 - yamljs
 - concurrently
 - nodemon
+- Emailjs
 
 
 ---
