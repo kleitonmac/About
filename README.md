@@ -133,7 +133,7 @@ Aplicação com painel administrativo e integração com banco de dados.
 
 Portfólio moderno com apresentação de projetos e tecnologias.
 
-**Stack:** Next.js + Tailwind CSS  
+**Stack:** Next.js + Tailwind CSS  + Frame Motion
 
 ---
 
