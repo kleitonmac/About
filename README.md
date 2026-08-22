@@ -24,6 +24,34 @@ Tenho experiência prática com:
 
 Busco oportunidades como **Desenvolvedor Full Stack**, contribuindo com código organizado, arquitetura limpa e foco em resultado.
 
+## ⚡ TEC Engenharia ES
+
+🔗 https://www.tecengenhariaes.com.br/
+
+Landing page institucional profissional desenvolvida para a **TEC Engenharia ES**, empresa especializada em soluções de engenharia elétrica.
+
+O projeto foi criado com foco em **design moderno, responsividade, performance, experiência do usuário e presença digital profissional**, apresentando os serviços, projetos realizados e canais de contato da empresa de forma clara e estratégica.
+
+**Destaques do projeto:**
+
+* Landing page institucional moderna e responsiva
+* Layout profissional voltado para o setor de engenharia
+* Seção de apresentação da empresa
+* Exibição de serviços de engenharia elétrica
+* Portfólio de projetos realizados
+* Seções para instalações industriais
+* Projetos prediais
+* Painéis elétricos e automação
+* Integração com WhatsApp para contato direto
+* Navegação organizada entre as páginas e seções
+* Otimização de SEO
+* Meta tags para mecanismos de busca e compartilhamento
+* URL personalizada com domínio próprio
+* Layout adaptado para desktop, tablet e dispositivos móveis
+* Deploy em produção
+
+**Stack:** React + TypeScript + CSS + Vercel
+
 
 # 🚀 Projetos Full Stack em Produção
 
