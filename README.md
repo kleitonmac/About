@@ -209,11 +209,11 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 
 ## 📈 GitHub Activity
 
-<div align="center">
 
-[![Kleiton's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark&hide_border=true)](https://github.com/kleitonmac)
+### 📊 Activity Graph
 
-</div>
+![Kleiton's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)
+
 
 ### Snake Animation
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"/> </picture>
