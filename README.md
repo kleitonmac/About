@@ -209,12 +209,8 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 
 ## 📈 GitHub Activity
 
-
-### 📊 GitHub Stats
-
-![Kleiton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleitonmac&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&theme=react&hide_border=true)
+### 📊 Activity Graph
+[![Kleiton's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/kleitonmac)
 
 
 ### Snake Animation
