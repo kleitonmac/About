@@ -209,8 +209,6 @@ Portfólio moderno com apresentação de projetos e tecnologias.
 
 ## 📈 GitHub Activity
 
-### 📊 Activity Graph
-[![Kleiton's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&theme=react-dark)](https://github.com/kleitonmac)
 
 
 ### Snake Animation
