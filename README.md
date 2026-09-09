@@ -277,14 +277,47 @@ Portfólio para apresentação dos meus projetos, tecnologias e experiência pro
 
 ---
 
-# GitHub
+# GitHub Analytics
 
 Abaixo estão alguns indicadores da minha atividade e dos projetos que mantenho no GitHub.
 
 [![GitHub](https://img.shields.io/badge/GitHub-kleitonmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kleitonmac)
 ![Profile Views](https://komarev.com/ghpvc/?username=kleitonmac&style=for-the-badge&color=2563EB)
 
-### Principais áreas dos meus repositórios
+---
+
+## Estatísticas
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kleitonmac&theme=github_dark"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+  </tr>
+</table>
+
+## Visão geral do perfil
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kleitonmac&theme=github_dark"
+  alt="Resumo do perfil GitHub"
+/>
+
+---
+
+## Principais áreas dos meus repositórios
 
 `React Native` · `React` · `TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `MongoDB`
 
@@ -303,7 +336,7 @@ Abaixo estão alguns indicadores da minha atividade e dos projetos que mantenho 
   />
   <img
     width="100%"
-    alt="GitHub contribution grid"
+    alt="GitHub Contribution Grid"
     src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
