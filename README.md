@@ -79,29 +79,66 @@ Busco oportunidades como **Mobile Developer ou Full Stack Developer**, contribui
 
 Tenho experiência prática com aplicações mobile envolvendo:
 
-```text
-React Native
-Expo
-Expo Router
-React Navigation
-TypeScript
-React Query
-Zustand
-React Hook Form
-Zod
-JWT
-OAuth
-Socket.IO
-Push Notifications
-Firebase
-Geolocation
-Mapbox
-Secure Storage
-Deep Linking
-Android
-iOS
-EAS Build
-````
+## 📱 Mobile Stack
+
+<div align="center">
+
+### ⚛️ Core Mobile
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br/><br/>
+
+### 🧭 Navigation & Routing
+
+<img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Linking-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<br/><br/>
+
+### 🧠 State & Data
+
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white"/>
+
+<br/><br/>
+
+### 🔐 Authentication & Security
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Secure_Storage-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br/><br/>
+
+### ⚡ Realtime & Notifications
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Push_Notifications-FF4785?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<br/><br/>
+
+### 🗺️ Maps & Location
+
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+### 📲 Platforms & Build
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+</div>
+
 
 ---
 
