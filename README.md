@@ -11,10 +11,28 @@ Minha principal stack é **React Native, Expo, React, TypeScript, Node.js, NestJ
 
 Atualmente busco oportunidades como **Mobile Developer, React Native Developer ou Full Stack Developer**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleiton_Macedo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleitonmacedo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://kleitondev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-contatokleimacedo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatokleimacedo@gmail.com)
+<h3 align="center">🌐 Conecte-se comigo</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kleitonmacedo/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Kleiton%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://kleitondev.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfólio-Kleiton.dev-111827?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfólio"
+    />
+  </a>
+  <a href="mailto:contatokleimacedo@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 ---
 
 ## Perfil profissional
