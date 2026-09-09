@@ -279,26 +279,18 @@ Portfólio para apresentação dos meus projetos, tecnologias e experiência pro
 
 # GitHub
 
-<p>
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=kleitonmac&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&hide_border=true&title_color=2563EB"
-  />
-</p>
+Abaixo estão alguns indicadores da minha atividade e dos projetos que mantenho no GitHub.
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&color=2563EB&line=2563EB&point=1E40AF&area=true&hide_border=true"
-/>
+[![GitHub](https://img.shields.io/badge/GitHub-kleitonmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kleitonmac)
+![Profile Views](https://komarev.com/ghpvc/?username=kleitonmac&style=for-the-badge&color=2563EB)
 
-<details>
-<summary><strong>Ver animação de contribuições</strong></summary>
+### Principais áreas dos meus repositórios
 
-<br/>
+`React Native` · `React` · `TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `MongoDB`
+
+---
+
+## Contribuições
 
 <picture>
   <source
@@ -311,10 +303,27 @@ Portfólio para apresentação dos meus projetos, tecnologias e experiência pro
   />
   <img
     width="100%"
-    alt="GitHub contribution animation"
+    alt="GitHub contribution grid"
     src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+### GitHub Profile
+
+**Usuário:** [@kleitonmac](https://github.com/kleitonmac)
+
+No GitHub mantenho projetos relacionados principalmente a desenvolvimento:
+
+- Mobile com React Native e Expo
+- Front-End com React e TypeScript
+- APIs com Node.js e NestJS
+- PostgreSQL e MongoDB
+- Aplicações com comunicação em tempo real
+- Integrações com serviços externos
+- Projetos Full Stack em produção
+
 
 </details>
 
