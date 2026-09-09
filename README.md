@@ -11,9 +11,9 @@ Minha principal stack é **React Native, Expo, React, TypeScript, Node.js, NestJ
 
 Atualmente busco oportunidades como **Mobile Developer, React Native Developer ou Full Stack Developer**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleiton_Macedo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleitonmacedo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://kleitondev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-contatokleimacedo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatokleimacedo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleiton_Macedo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-contatokleimacedo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]
 
 ---
 
