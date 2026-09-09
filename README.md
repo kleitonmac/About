@@ -11,9 +11,9 @@ Minha principal stack é **React Native, Expo, React, TypeScript, Node.js, NestJ
 
 Atualmente busco oportunidades como **Mobile Developer, React Native Developer ou Full Stack Developer**.
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
+<h3 align="left">🌐 Conecte-se comigo</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kleitonmacedo/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Kleiton%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
