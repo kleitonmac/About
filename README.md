@@ -1,602 +1,337 @@
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=220&section=header&text=Kleiton%20Macedo&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=57&descSize=20"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=18"/>
 
-<div align="center">
+# Kleiton Macedo
 
-# 👋 Olá, eu sou Kleiton Macedo
+### Mobile Developer | Full Stack Developer
 
-### 📱 Mobile Developer • 💻 Full Stack Developer
+Desenvolvedor de software com foco em **aplicações mobile e sistemas Full Stack**, atuando na construção de produtos desde a interface até o backend, banco de dados e infraestrutura.
 
-Desenvolvo aplicações **Mobile e Web completas**, conectando interfaces modernas, APIs, bancos de dados, autenticação, serviços em tempo real e infraestrutura.
+Minha principal stack é **React Native, Expo, React, TypeScript, Node.js, NestJS e PostgreSQL**, com experiência prática em aplicações que envolvem autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos, APIs REST e deploy em produção.
 
-<br/>
+Atualmente busco oportunidades como **Mobile Developer, React Native Developer ou Full Stack Developer**.
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=React+Native+%2B+Expo+%2B+TypeScript;React+%2B+Node.js+%2B+PostgreSQL;Mobile+%2B+Web+Full+Stack;APIs+REST+%2B+Realtime+%2B+Integra%C3%A7%C3%B5es;Transformando+ideias+em+produtos+digitais"
-/>
-
-<br/><br/>
-
-<a href="https://kleitondev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kleitonmacedo/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contatokleimacedo@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kleitonmac&style=for-the-badge&color=1e40af"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleiton_Macedo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleitonmacedo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://kleitondev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-contatokleimacedo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatokleimacedo@gmail.com)
 
 ---
 
-# 👨‍💻 Sobre mim
+## Perfil profissional
 
-Sou **Desenvolvedor Full Stack com foco em aplicações Mobile**, especializado na construção de produtos digitais modernos, escaláveis e integrados.
+Minha experiência está concentrada no desenvolvimento de aplicações **Mobile e Web Full Stack**, participando de diferentes etapas do ciclo de desenvolvimento:
 
-Minha experiência envolve todo o ciclo de desenvolvimento:
+- Desenvolvimento mobile com **React Native, Expo e TypeScript**
+- Desenvolvimento Front-End com **React e Next.js**
+- Construção de APIs com **Node.js, Express e NestJS**
+- Modelagem e integração com **PostgreSQL, MongoDB e MySQL**
+- Autenticação e autorização utilizando **JWT e OAuth**
+- Gerenciamento de estado e comunicação cliente-servidor
+- Integração com APIs e serviços externos
+- Comunicação em tempo real utilizando **Socket.IO**
+- Geolocalização, mapas e rotas com **Mapbox**
+- Integração de fluxos de pagamento e webhooks
+- Containerização com **Docker**
+- Deploy e manutenção de aplicações em produção
 
-- 📱 Desenvolvimento mobile com **React Native, Expo e TypeScript**
-- ⚛️ Aplicações web com **React, Next.js e TypeScript**
-- ⚙️ Back-End com **Node.js, Express e NestJS**
-- 🗄️ Bancos relacionais e NoSQL
-- 🔐 JWT, OAuth e controle de acesso
-- 🔌 Desenvolvimento e integração de APIs REST
-- ⚡ Comunicação em tempo real
-- 🗺️ Geolocalização e mapas
-- 💳 Integração com serviços de pagamento
-- 🐳 Docker e ambientes de desenvolvimento
-- ☁️ Deploy e aplicações em produção
-- 📊 Dashboards e sistemas administrativos
-
-Busco oportunidades como **Mobile Developer ou Full Stack Developer**, contribuindo com arquitetura organizada, código sustentável e soluções orientadas a produto.
+Tenho interesse especial em projetos que exigem integração entre **mobile, backend, dados e serviços em tempo real**.
 
 ---
 
-# 📱 Especialidade Mobile
+# Experiência técnica
 
-<div align="center">
+## Mobile Development
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+Minha principal área de atuação atualmente é o desenvolvimento de aplicações mobile com React Native e Expo.
 
-</div>
+| Área | Tecnologias |
+|---|---|
+| **Core** | React Native, Expo, TypeScript |
+| **Navegação** | Expo Router, React Navigation, Deep Linking |
+| **Estado e dados** | React Query, Zustand |
+| **Formulários** | React Hook Form, Zod |
+| **Autenticação** | JWT, OAuth, Secure Storage |
+| **Realtime** | Socket.IO, WebSockets |
+| **Notificações** | Expo Notifications, Firebase |
+| **Mapas** | Mapbox, Geolocation |
+| **Build** | EAS Build, Android, iOS |
 
-<br/>
+### Experiência prática
 
-Tenho experiência prática com aplicações mobile envolvendo:
-
-## 📱 Mobile Stack
-
-<div align="center">
-
-### ⚛️ Core Mobile
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br/><br/>
-
-### 🧭 Navigation & Routing
-
-<img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Linking-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br/><br/>
-
-### 🧠 State & Data
-
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white"/>
-
-<br/><br/>
-
-### 🔐 Authentication & Security
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/Secure_Storage-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<br/><br/>
-
-### ⚡ Realtime & Notifications
-
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Push_Notifications-FF4785?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<br/><br/>
-
-### 🗺️ Maps & Location
-
-<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-### 📲 Platforms & Build
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
-</div>
-
+Desenvolvimento de aplicações com múltiplos perfis de usuário, autenticação persistente, rotas protegidas, localização em tempo real, mapas interativos, comunicação via WebSocket, notificações, integração com backend e APIs externas.
 
 ---
 
-# 🚀 Projeto principal
+## Front-End
 
-## 🚕 PinkTour
+**Principais tecnologias**
 
-### Aplicação de mobilidade Mobile Full Stack
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Styled Components` · `Vite`
 
-A **PinkTour** é uma plataforma de mobilidade desenvolvida com aplicações mobile independentes para passageiras e motoristas.
-
-O projeto envolve integração completa entre **Mobile, Backend, Banco de Dados, Mapas, Realtime, Autenticação e Pagamentos**.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox"/>
-
-</div>
-
-### Principais recursos
-
-* Solicitação e gerenciamento de corridas
-* Aplicações separadas para motorista e passageira
-* Autenticação JWT
-* Refresh token
-* Geolocalização
-* Mapas e rotas
-* Mapbox
-* Comunicação em tempo real
-* Socket.IO
-* Chat entre usuários
-* Acompanhamento de localização
-* Push notifications
-* Sistema de pagamentos
-* Webhooks
-* Upload de documentos
-* Carteira e ganhos
-* Recursos de segurança
-* Compartilhamento de viagem
-
-### Arquitetura
-
-```text
-Mobile
- ├─ React Native
- ├─ Expo
- ├─ TypeScript
- ├─ Expo Router
- ├─ React Query
- └─ Zustand
-
-Backend
- ├─ NestJS
- ├─ Prisma
- ├─ PostgreSQL
- ├─ PostGIS
- ├─ JWT
- └─ Socket.IO
-
-Infraestrutura
- ├─ Docker
- ├─ Firebase
- ├─ Mapbox
- └─ Cloud Services
-```
+Experiência com componentização, gerenciamento de estado, consumo de APIs, formulários, autenticação, dashboards, interfaces responsivas e integração completa com backend.
 
 ---
 
-# 💼 Projetos em produção
+## Back-End
 
-## ⚡ TEC Engenharia ES
+**Principais tecnologias**
 
-🔗 **https://www.tecengenhariaes.com.br/**
+`Node.js` · `NestJS` · `Express` · `TypeScript` · `REST APIs` · `Socket.IO` · `JWT` · `OAuth`
 
-Landing page institucional desenvolvida para empresa do setor de engenharia elétrica.
+Experiência na construção de APIs, autenticação, autorização, regras de negócio, comunicação em tempo real, integrações externas, webhooks e organização modular de aplicações.
 
-### Destaques
+---
 
-* Design institucional profissional
-* Responsividade
-* SEO
-* Meta tags
-* Open Graph
-* Navegação otimizada
-* Portfólio de projetos
-* Apresentação de serviços
-* Integração com WhatsApp
-* Domínio personalizado
-* Deploy em produção
+## Banco de Dados
+
+**Tecnologias**
+
+`PostgreSQL` · `PostGIS` · `MongoDB` · `MySQL` · `Prisma ORM`
+
+Experiência com modelagem de dados, relacionamentos, consultas, migrations e integração de bancos relacionais e NoSQL com aplicações backend.
+
+---
+
+## DevOps e ferramentas
+
+`Docker` · `Git` · `GitHub` · `Vercel` · `Render` · `Postman` · `Figma` · `VS Code`
+
+---
+
+# Projetos selecionados
+
+## PinkTour — Mobile Full Stack
+
+**Aplicação de mobilidade para passageiras e motoristas**
+
+A PinkTour é o projeto em que concentro atualmente grande parte do meu desenvolvimento Mobile e Full Stack.
+
+A plataforma possui aplicações mobile independentes para passageiras e motoristas, integradas a um backend responsável por corridas, localização, pagamentos, comunicação em tempo real e regras de negócio.
+
+**Minha atuação no projeto inclui:**
+
+- Arquitetura das aplicações mobile
+- Desenvolvimento com React Native e Expo
+- Navegação utilizando Expo Router
+- Gerenciamento de estado e dados
+- Integração Mobile ↔ API
+- Autenticação JWT e refresh token
+- Geolocalização
+- Mapas e rotas utilizando Mapbox
+- Atualização de localização de corridas
+- Comunicação em tempo real com Socket.IO
+- Solicitação e gerenciamento de corridas
+- Chat entre passageira e motorista
+- Push notifications
+- Integração de pagamentos
+- Processamento de webhooks
+- Upload e gerenciamento de documentos
+- Recursos de segurança e compartilhamento de viagem
+- Backend modular com NestJS
+- Persistência utilizando PostgreSQL, PostGIS e Prisma
+
+**Stack principal**
+
+`React Native` · `Expo` · `TypeScript` · `NestJS` · `PostgreSQL` · `PostGIS` · `Prisma` · `Socket.IO` · `Mapbox` · `Docker`
+
+---
+
+## Fluxa Finanças
+
+🔗 [Aplicação em produção](https://fluxafinancas.vercel.app/)
+
+Sistema Full Stack desenvolvido para gerenciamento de **finanças pessoais e vendas**, com autenticação, dashboards, indicadores e geração de relatórios.
+
+**Principais implementações**
+
+- Autenticação com e-mail e senha
+- OAuth com Google e GitHub
+- JWT Access Token e Refresh Token
+- Cookies HTTP-only
+- CRUD de categorias financeiras
+- Controle de despesas
+- Cadastro e gerenciamento de vendas
+- Dashboard financeiro mensal e anual
+- Indicadores de faturamento
+- Exportação CSV
+- Geração de relatórios PDF
+- Documentação Swagger
+- Health Check
+- Rate limiting e segurança HTTP
 
 **Stack**
 
-`React` `TypeScript` `CSS` `Vercel`
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `PostgreSQL` · `JWT` · `Swagger`
 
 ---
 
-## 💰 Fluxa Finanças
+## TEC Engenharia ES
 
-🔗 **https://fluxafinancas.vercel.app/**
+🔗 [www.tecengenhariaes.com.br](https://www.tecengenhariaes.com.br/)
 
-Sistema Full Stack para controle de finanças pessoais, despesas, vendas e indicadores.
+Website institucional desenvolvido para uma empresa do setor de engenharia elétrica.
 
-### Destaques técnicos
+O projeto foi construído com foco em **experiência do usuário, responsividade, performance, SEO e presença digital profissional**.
 
-* Login e cadastro
-* OAuth com Google e GitHub
-* JWT Access Token
-* Refresh Token
-* Cookie HTTP-only
-* CRUD de categorias
-* Controle de despesas
-* Gestão de vendas
-* Dashboard financeiro
-* Resumo mensal e anual
-* Relatórios
-* Exportação CSV
-* Relatórios PDF
-* Swagger
-* Health Check
-* Rate Limit
-* Segurança HTTP
+**Principais implementações**
 
-### Stack
-
-`React` `TypeScript` `Vite` `Tailwind CSS`
-
-`Node.js` `Express` `PostgreSQL`
-
-`JWT` `Passport` `Swagger` `PDFKit`
-
----
-
-## 💈 Barbearia Novo Estilo
-
-🔗 **https://novoestilo.vercel.app/**
-
-Sistema de agendamento online com autenticação e painel administrativo.
-
-### Recursos
-
-* Login e cadastro
-* Controle de usuários
-* Agendamentos
-* CRUD completo
-* API REST
-* Banco MongoDB
-* Deploy em produção
+- Interface responsiva
+- Apresentação institucional
+- Catálogo de serviços
+- Portfólio de projetos
+- Integração com WhatsApp
+- SEO técnico
+- Meta tags e Open Graph
+- Domínio personalizado
+- Deploy em produção
 
 **Stack**
 
-`React` `TypeScript` `Node.js` `MongoDB` `Styled Components`
+`React` · `TypeScript` · `CSS` · `Vercel`
 
 ---
 
-## 📊 DevTracker
+## Barbearia Novo Estilo
 
-🔗 **https://devtracker-frontend.vercel.app/**
+🔗 [novoestilo.vercel.app](https://novoestilo.vercel.app/)
 
-Sistema Full Stack para gerenciamento de tarefas com dashboard administrativo.
+Sistema Full Stack para agendamento online com autenticação e painel administrativo.
 
-### Recursos
+**Principais implementações**
 
-* Autenticação JWT
-* Rotas protegidas
-* Arquitetura MVC
-* API REST
-* Dashboard
-* Integração Front-End + Back-End
-* Deploy independente
+- Autenticação
+- Cadastro de usuários
+- Agendamentos
+- CRUD
+- API REST
+- Painel administrativo
+- Persistência com MongoDB
 
 **Stack**
 
-`React` `TypeScript` `Node.js` `MongoDB` `Radix UI`
+`React` · `TypeScript` · `Node.js` · `MongoDB` · `Styled Components`
 
 ---
 
-## ☕ Grão & Aroma
+## DevTracker
 
-🔗 **https://cafeteriagraoearoma.vercel.app/**
+🔗 [devtracker-frontend.vercel.app](https://devtracker-frontend.vercel.app/)
 
-Site institucional moderno e responsivo.
+Sistema Full Stack para gerenciamento de tarefas.
+
+**Principais implementações**
+
+- Autenticação JWT
+- Rotas protegidas
+- Dashboard administrativo
+- Arquitetura MVC
+- API REST
+- Integração Front-End ↔ Back-End
 
 **Stack**
 
-`HTML` `CSS` `JavaScript`
+`React` · `TypeScript` · `Node.js` · `MongoDB` · `Radix UI`
 
 ---
 
-## 🍔 CodeBurguer
+# Outros projetos
 
-🔗 **https://codeburgue.vercel.app/**
+### Grão & Aroma
+
+🔗 [cafeteriagraoearoma.vercel.app](https://cafeteriagraoearoma.vercel.app/)
+
+Website institucional responsivo desenvolvido com HTML, CSS e JavaScript.
+
+### CodeBurguer
+
+🔗 [codeburgue.vercel.app](https://codeburgue.vercel.app/)
 
 Aplicação web com painel administrativo e integração com banco de dados.
 
-**Stack**
+**Stack:** React, TypeScript e MongoDB.
 
-`React` `TypeScript` `MongoDB`
+### Portfólio profissional
 
----
+🔗 [kleitondev.vercel.app](https://kleitondev.vercel.app/)
 
-## 🌐 Portfólio Profissional
+Portfólio para apresentação dos meus projetos, tecnologias e experiência profissional.
 
-🔗 **https://kleitondev.vercel.app/**
-
-Portfólio profissional com apresentação de projetos, tecnologias e experiência.
-
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+**Stack:** Next.js, TypeScript, Tailwind CSS e Framer Motion.
 
 ---
 
-# 🛠️ Stack Tecnológica
+# Stack técnica
 
-<div align="center">
-
-## 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=react,ts,firebase&theme=dark"/>
-
-<br/><br/>
-
-## 🎨 Front-End
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
-
-<br/><br/>
-
-## ⚙️ Back-End
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go&theme=dark"/>
-
-<br/><br/>
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&theme=dark"/>
-
-<br/><br/>
-
-## 🛠️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,postman,vscode&theme=dark"/>
-
-</div>
+| Categoria | Tecnologias |
+|---|---|
+| **Mobile** | React Native, Expo, Expo Router, React Navigation |
+| **Front-End** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Back-End** | Node.js, NestJS, Express |
+| **Banco de Dados** | PostgreSQL, PostGIS, MongoDB, MySQL |
+| **ORM** | Prisma |
+| **Realtime** | Socket.IO, WebSockets |
+| **Autenticação** | JWT, OAuth |
+| **Maps & Location** | Mapbox, Geolocation |
+| **DevOps** | Docker, Git, GitHub, Vercel, Render |
+| **Ferramentas** | Postman, Figma, VS Code |
 
 ---
 
-# 🧠 Competências técnicas
+# GitHub
 
-<div align="center">
-
-|     Mobile    | Back-End |    Dados   |      Engenharia     |
-| :-----------: | :------: | :--------: | :-----------------: |
-|  React Native |  Node.js | PostgreSQL |      REST APIs      |
-|      Expo     |  NestJS  |   MongoDB  |      Clean Code     |
-|  Expo Router  |  Express |    MySQL   |         MVC         |
-|     Mapbox    |  Prisma  |   PostGIS  |       Realtime      |
-|  Geolocation  |    JWT   |     SQL    | Arquitetura modular |
-| Notifications |   OAuth  |    NoSQL   |     Integrações     |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
+<p>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=kleitonmac&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&hide_border=true&title_color=2563EB"
+  />
+</p>
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=kleitonmac&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&bg_color=0D1117"
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&color=2563EB&line=2563EB&point=1E40AF&area=true&hide_border=true"
 />
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonmac&layout=compact&hide_border=true&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117"
-/>
-
-</div>
+<details>
+<summary><strong>Ver animação de contribuições</strong></summary>
 
 <br/>
-
-<div align="center">
-
-<img
-width="80%"
-src="https://streak-stats.demolab.com?user=kleitonmac&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
-
----
-
-# 📈 Atividade no GitHub
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=kleitonmac&bg_color=0d1117&color=3b82f6&line=2563eb&point=ffffff&area=true&hide_border=true"
-/>
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution animation"
+    src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- width="100%"
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
-/> </picture>
-
-</div>
-
----
-
-# ⚡ Meu ambiente de desenvolvimento
-
-```ts
-const developer = {
-  name: "Kleiton Macedo",
-
-  role: [
-    "Mobile Developer",
-    "Full Stack Developer",
-  ],
-
-  mobile: [
-    "React Native",
-    "Expo",
-    "TypeScript",
-    "Mapbox",
-    "Socket.IO",
-  ],
-
-  frontend: [
-    "React",
-    "Next.js",
-    "Tailwind CSS",
-  ],
-
-  backend: [
-    "Node.js",
-    "NestJS",
-    "Express",
-    "REST APIs",
-  ],
-
-  database: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-  ],
-
-  devops: [
-    "Docker",
-    "Git",
-    "GitHub",
-    "Vercel",
-  ],
-
-  currentFocus:
-    "Aplicações Mobile Full Stack escaláveis",
-
-  philosophy:
-    "Arquitetura organizada, experiência do usuário e soluções que geram resultado.",
-};
-```
+</details>
 
 ---
 
-# 🎯 Áreas de atuação
+# Contato
 
-<div align="center">
+Estou aberto a oportunidades profissionais e projetos relacionados a **Mobile Development, React Native e Full Stack Development**.
 
-### 📱 Mobile Development
-
-React Native • Expo • Android • iOS
-
-### ⚛️ Front-End Development
-
-React • Next.js • TypeScript
-
-### ⚙️ Back-End Development
-
-Node.js • NestJS • Express
-
-### 🗄️ Banco de Dados
-
-PostgreSQL • MongoDB • MySQL
-
-### 🔌 Integrações
-
-REST APIs • WebSockets • OAuth • Payments • Maps
-
-</div>
+**E-mail:** contatokleimacedo@gmail.com  
+**LinkedIn:** [linkedin.com/in/kleitonmacedo](https://www.linkedin.com/in/kleitonmacedo/)  
+**Portfólio:** [kleitondev.vercel.app](https://kleitondev.vercel.app/)
 
 ---
 
-# 📬 Contato
+> **Mobile Developer | Full Stack Developer**  
+> React Native · Expo · React · TypeScript · Node.js · NestJS · PostgreSQL
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=100&section=footer"/>
 
-### Vamos construir alguma coisa juntos?
-
-<br/>
-
-<a href="mailto:contatokleimacedo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contatokleimacedo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/kleitonmacedo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kleiton%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://kleitondev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💡 Código limpo • Arquitetura organizada • Produtos que resolvem problemas reais
-
-</div>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=160&section=footer"
-/>
-
-```
-
-Essa estrutura também resolve alguns problemas do seu original: remove títulos repetidos, corrige `POstgresSQL` para `PostgreSQL`, `Frame Motion` para `Framer Motion`, dá **100% de largura** aos elementos principais e coloca o desenvolvimento **Mobile antes dos projetos web**, que é o posicionamento mais forte para seu perfil atual.
-```
