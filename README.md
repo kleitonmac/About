@@ -3,52 +3,21 @@
 <table>
   <tr>
     <td width="46%" valign="top">
-<pre><code>$ portrait --kleiton
-===-------:::-==+*+===-:::::----------
-==------::=*#%%@@@@%%@%*#=:::::-------
-------::=*%@@@@@@@@@@@@@@@#=:::::-----
------:-*@@@@@@@@@@@@@@@@@@@%#=::::::--
------+%@@@@@@@@@@@@@@@@@@@@@@@#-::::::
----:=%@@@@@%%####*****###%%@@@@%=:::::
----:=@@@@%+++==---:::---==+*%@@@*:::::
---::-%@%%+=+===---:::---==+=+%@#::::::
---:::*%#*++===--:::::::--====*%=::::::
---:::-#*+++++++==-::::-=++++=++:::::::
---:::=+++++******+=--+******++=:::::::
---:::++++=+**#****=:-+**#***+++:::::::
---:::-+++=-----=+=-::=+======+=:::::::
---::::+*+=---::-=--::-=----==+-:::::::
----:::-=+==--:::=++==++-:-==+=::::::::
----:::::++==---==++++*+====++-::::::::
-----::::-*+===+*++++++**+++*=:::::::--
-----:::-+**++===++===+*+++*=:::-------
----::-+%*-****=========+**+--::::-----
---=+*%@@%::+*%%#+====+*%#*:#%#*+==---
-*%@@@@@@@#..:=*#%%##%%%#+:.#@@@@@@%#*
-@@@@@@@@@@#.   .-=+****=. .*@@@@@@@@@@
-@@@@@@@@@@@#.     .:++:  ..=@@@@@@@@@@
-@@@@@@@@@@@@*.    .*%@@*....#@@@@@@@@@
-@@@@@@@@%%@@@+   .:%@%@=... +@@@@@@@@@
-@@@@@@@@@%%@@@- .. =@@%. .  -@@@@@@@@@
-@@@@@@@@@%%@@@%.   =@%@-    .%@@@@@@@@
-@@@@@@@@@@@%@@@#  .*@%@%-    *@@@@@@@@
-@@@@@@@@@@@%%@@@+ .*@%%@%. . +@@@@@@@@
-@@@@@@@@@@@@@@@@@- +@%%@@+  .-@@@@@@@@
-@@@@@@@@@@@@@@@@@%:-@%%@@%. .-@@@@@@@@
-
-$ status
-building products that move people_</code></pre>
-</td>
-<td width="54%" valign="top">
-<h2>Olá, eu sou Kleiton 👋🏽</h2>
-<p><strong>Mobile Developer | Full Stack Developer</strong></p>
-<p>Transformo ideias em produtos digitais completos — da experiência mobile à API, banco de dados e infraestrutura.</p>
-<p>Minha principal stack é <strong>React Native, Expo, React, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
-<p>Tenho experiência prática com autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos, APIs REST e deploy em produção.</p>
-<p>📍 Serra, Espírito Santo — Brasil</p>
-<p>🎯 Aberto a oportunidades em desenvolvimento Mobile, React Native e Full Stack.</p>
-</td>
-
+      <img
+        width="100%"
+        src="./assets/kleiton-terminal.svg"
+        alt="Retrato de Kleiton Macedo construído com caracteres de terminal"
+      />
+    </td>
+    <td width="54%" valign="top">
+      <h2>Olá, eu sou Kleiton 👋🏽</h2>
+      <p><strong>Mobile Developer | Full Stack Developer</strong></p>
+      <p>Transformo ideias em produtos digitais completos — da experiência mobile à API, banco de dados e infraestrutura.</p>
+      <p>Minha principal stack é <strong>React Native, Expo, React, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
+      <p>Tenho experiência prática com autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos, APIs REST e deploy em produção.</p>
+      <p>📍 Serra, Espírito Santo — Brasil</p>
+      <p>🎯 Aberto a oportunidades em desenvolvimento Mobile, React Native e Full Stack.</p>
+    </td>
   </tr>
 </table>
 
