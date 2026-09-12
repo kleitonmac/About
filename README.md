@@ -5,7 +5,7 @@
     <td width="46%" valign="top">
       <img
         width="100%"
-        src="./kleiton-terminal.png"
+        src="/kleiton-terminal.png"
         alt="Retrato de Kleiton Macedo construído com caracteres de terminal"
       />
     </td>
