@@ -5,7 +5,7 @@
     <td width="46%" valign="top">
       <img
         width="100%"
-        src="./assets//kleiton-terminal.png"
+        src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000d928820e9019b79f4584930a&ts=497006&p=fs&cid=1&sig=48ce0e23b6cd5618934409a71eb66cfed00ae008592146c6f590083768117c25&v=0"
         alt="Retrato de Kleiton Macedo construído com caracteres de terminal"
       />
     </td>
