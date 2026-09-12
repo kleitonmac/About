@@ -33,368 +33,131 @@
   </a>
 </p>
 
-Perfil profissional
 
-Minha experiência está concentrada no desenvolvimento de aplicações Mobile e Web Full Stack, participando de diferentes etapas do ciclo de desenvolvimento:
+## 👨‍💻 Sobre mim
 
-Desenvolvimento mobile com React Native, Expo e TypeScript
+Sou **Mobile & Full Stack Developer**, com foco em desenvolvimento de aplicações mobile, APIs e sistemas integrados de ponta a ponta.
 
-Desenvolvimento Front-End com React e Next.js
+Atuo principalmente com **React Native, Expo, TypeScript, Node.js, NestJS e PostgreSQL**, desenvolvendo soluções que envolvem autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos e integrações com serviços externos.
 
-Construção de APIs com Node.js, Express e NestJS
+Tenho especial interesse em produtos que conectam **mobile, backend e dados em tempo real**, transformando regras de negócio complexas em experiências simples para o usuário.
 
-Modelagem e integração com PostgreSQL, MongoDB e MySQL
+---
 
-Autenticação e autorização utilizando JWT e OAuth
+## ⚡ Tech Stack
 
-Gerenciamento de estado e comunicação cliente-servidor
+**Mobile**
+React Native · Expo · TypeScript · Expo Router · React Navigation
 
-Integração com APIs e serviços externos
+**Front-End**
+React · Next.js · TypeScript · Tailwind CSS · Vite
 
-Comunicação em tempo real utilizando Socket.IO
+**Back-End**
+Node.js · NestJS · Express · REST APIs · Socket.IO
 
-Geolocalização, mapas e rotas com Mapbox
+**Data**
+PostgreSQL · PostGIS · MongoDB · MySQL · Prisma
 
-Integração de fluxos de pagamento e webhooks
+**Infrastructure & Tools**
+Docker · Git · GitHub · Vercel · Render · Postman · Figma
 
-Containerização com Docker
+**Especialidades**
+JWT · OAuth · WebSockets · Mapbox · Geolocation · Webhooks · Push Notifications
 
-Deploy e manutenção de aplicações em produção
+---
 
-Tenho interesse especial em projetos que exigem integração entre mobile, backend, dados e serviços em tempo real.
+# 🚀 Featured Projects
 
-Experiência técnica
+### 🚗 PinkTour
 
-Mobile Development
+**Plataforma mobile de mobilidade**
 
-Minha principal área de atuação atualmente é o desenvolvimento de aplicações mobile com React Native e Expo.
+Ecossistema de mobilidade composto por aplicações independentes para **passageiras e motoristas**, conectadas a uma arquitetura backend responsável pelo ciclo completo das corridas.
 
-Área
+Desenvolvi funcionalidades envolvendo **matching de corridas, localização em tempo real, mapas e rotas, autenticação, pagamentos, chat, notificações e recursos de segurança**.
 
-Tecnologias
+**Destaques técnicos**
 
-Core
+* Aplicações mobile com React Native + Expo
+* Backend modular com NestJS
+* Geolocalização e rotas com Mapbox
+* Comunicação em tempo real com Socket.IO
+* PostgreSQL + PostGIS para dados geoespaciais
+* Autenticação JWT + Refresh Token
+* Pagamentos e processamento de webhooks
+* Push notifications e chat em tempo real
 
-React Native, Expo, TypeScript
+`React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `Socket.IO` `Mapbox` `Docker`
 
-Navegação
+---
 
-Expo Router, React Navigation, Deep Linking
+### 💰 Fluxa Finanças
 
-Estado e dados
+**Plataforma Full Stack para gestão financeira**
 
-React Query, Zustand
+Aplicação desenvolvida para centralizar **finanças pessoais, vendas, indicadores e relatórios** em uma única plataforma.
 
-Formulários
+O sistema conta com autenticação, dashboards financeiros, controle de despesas e vendas, geração de relatórios e mecanismos de segurança para a API.
 
-React Hook Form, Zod
+**Destaques técnicos**
 
-Autenticação
+* Autenticação JWT + Refresh Token
+* OAuth
+* Dashboards financeiros
+* Gestão de despesas e vendas
+* Exportação CSV e relatórios PDF
+* Documentação Swagger
+* Rate limiting e segurança HTTP
 
-JWT, OAuth, Secure Storage
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `JWT` `Swagger`
 
-Realtime
+---
 
-Socket.IO, WebSockets
+### ⚡ TEC Engenharia ES
 
-Notificações
+**Website institucional para engenharia elétrica**
 
-Expo Notifications, Firebase
+Projeto desenvolvido para fortalecer a presença digital da empresa, apresentando serviços e projetos por meio de uma interface **responsiva, rápida e otimizada para mecanismos de busca**.
 
-Mapas
+**Destaques**
 
-Mapbox, Geolocation
+* Design responsivo
+* Catálogo de serviços
+* Portfólio de projetos
+* Integração com WhatsApp
+* SEO técnico
+* Open Graph e meta tags
+* Domínio e deploy em produção
 
-Build
+`React` `TypeScript` `Vercel`
 
-EAS Build, Android, iOS
+---
 
-Experiência prática
+## 🧩 Outros projetos
 
-Desenvolvimento de aplicações com múltiplos perfis de usuário, autenticação persistente, rotas protegidas, localização em tempo real, mapas interativos, comunicação via WebSocket, notificações, integração com backend e APIs externas.
+**Barbearia Novo Estilo**
+Sistema Full Stack de agendamentos com autenticação, painel administrativo e gerenciamento de usuários.
 
-Front-End
+`React` `TypeScript` `Node.js` `MongoDB`
 
-Principais tecnologias
+**DevTracker**
+Plataforma para gerenciamento de tarefas com autenticação JWT, rotas protegidas, dashboard e API REST.
 
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · Styled Components · Vite
+`React` `TypeScript` `Node.js` `MongoDB`
 
-Experiência com componentização, gerenciamento de estado, consumo de APIs, formulários, autenticação, dashboards, interfaces responsivas e integração completa com backend.
+**Grão & Aroma**
+Website institucional responsivo para cafeteria.
 
-Back-End
+`HTML` `CSS` `JavaScript`
 
-Principais tecnologias
+**CodeBurguer**
+Aplicação web com painel administrativo e persistência de dados.
 
-Node.js · NestJS · Express · TypeScript · REST APIs · Socket.IO · JWT · OAuth
+`React` `TypeScript` `MongoDB`
 
-Experiência na construção de APIs, autenticação, autorização, regras de negócio, comunicação em tempo real, integrações externas, webhooks e organização modular de aplicações.
+---
 
-Banco de Dados
-
-Tecnologias
-
-PostgreSQL · PostGIS · MongoDB · MySQL · Prisma ORM
-
-Experiência com modelagem de dados, relacionamentos, consultas, migrations e integração de bancos relacionais e NoSQL com aplicações backend.
-
-DevOps e ferramentas
-
-Docker · Git · GitHub · Vercel · Render · Postman · Figma · VS Code
-
-Projetos selecionados
-
-PinkTour — Mobile Full Stack
-
-Aplicação de mobilidade para passageiras e motoristas
-
-A PinkTour é o projeto em que concentro atualmente grande parte do meu desenvolvimento Mobile e Full Stack.
-
-A plataforma possui aplicações mobile independentes para passageiras e motoristas, integradas a um backend responsável por corridas, localização, pagamentos, comunicação em tempo real e regras de negócio.
-
-Minha atuação no projeto inclui:
-
-Arquitetura das aplicações mobile
-
-Desenvolvimento com React Native e Expo
-
-Navegação utilizando Expo Router
-
-Gerenciamento de estado e dados
-
-Integração Mobile ↔ API
-
-Autenticação JWT e refresh token
-
-Geolocalização
-
-Mapas e rotas utilizando Mapbox
-
-Atualização de localização de corridas
-
-Comunicação em tempo real com Socket.IO
-
-Solicitação e gerenciamento de corridas
-
-Chat entre passageira e motorista
-
-Push notifications
-
-Integração de pagamentos
-
-Processamento de webhooks
-
-Upload e gerenciamento de documentos
-
-Recursos de segurança e compartilhamento de viagem
-
-Backend modular com NestJS
-
-Persistência utilizando PostgreSQL, PostGIS e Prisma
-
-Stack principal
-
-React Native · Expo · TypeScript · NestJS · PostgreSQL · PostGIS · Prisma · Socket.IO · Mapbox · Docker
-
-Fluxa Finanças
-
-🔗 Aplicação em produção
-
-Sistema Full Stack desenvolvido para gerenciamento de finanças pessoais e vendas, com autenticação, dashboards, indicadores e geração de relatórios.
-
-Principais implementações
-
-Autenticação com e-mail e senha
-
-OAuth com Google e GitHub
-
-JWT Access Token e Refresh Token
-
-Cookies HTTP-only
-
-CRUD de categorias financeiras
-
-Controle de despesas
-
-Cadastro e gerenciamento de vendas
-
-Dashboard financeiro mensal e anual
-
-Indicadores de faturamento
-
-Exportação CSV
-
-Geração de relatórios PDF
-
-Documentação Swagger
-
-Health Check
-
-Rate limiting e segurança HTTP
-
-Stack
-
-React · TypeScript · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · JWT · Swagger
-
-TEC Engenharia ES
-
-🔗 www.tecengenhariaes.com.br
-
-Website institucional desenvolvido para uma empresa do setor de engenharia elétrica.
-
-O projeto foi construído com foco em experiência do usuário, responsividade, performance, SEO e presença digital profissional.
-
-Principais implementações
-
-Interface responsiva
-
-Apresentação institucional
-
-Catálogo de serviços
-
-Portfólio de projetos
-
-Integração com WhatsApp
-
-SEO técnico
-
-Meta tags e Open Graph
-
-Domínio personalizado
-
-Deploy em produção
-
-Stack
-
-React · TypeScript · CSS · Vercel
-
-Barbearia Novo Estilo
-
-🔗 novoestilo.vercel.app
-
-Sistema Full Stack para agendamento online com autenticação e painel administrativo.
-
-Principais implementações
-
-Autenticação
-
-Cadastro de usuários
-
-Agendamentos
-
-CRUD
-
-API REST
-
-Painel administrativo
-
-Persistência com MongoDB
-
-Stack
-
-React · TypeScript · Node.js · MongoDB · Styled Components
-
-DevTracker
-
-🔗 devtracker-frontend.vercel.app
-
-Sistema Full Stack para gerenciamento de tarefas.
-
-Principais implementações
-
-Autenticação JWT
-
-Rotas protegidas
-
-Dashboard administrativo
-
-Arquitetura MVC
-
-API REST
-
-Integração Front-End ↔ Back-End
-
-Stack
-
-React · TypeScript · Node.js · MongoDB · Radix UI
-
-Outros projetos
-
-Grão & Aroma
-
-🔗 cafeteriagraoearoma.vercel.app
-
-Website institucional responsivo desenvolvido com HTML, CSS e JavaScript.
-
-CodeBurguer
-
-🔗 codeburgue.vercel.app
-
-Aplicação web com painel administrativo e integração com banco de dados.
-
-Stack: React, TypeScript e MongoDB.
-
-Portfólio profissional
-
-🔗 kleitondev.vercel.app
-
-Portfólio para apresentação dos meus projetos, tecnologias e experiência profissional.
-
-Stack: Next.js, TypeScript, Tailwind CSS e Framer Motion.
-
-Stack técnica
-
-Categoria
-
-Tecnologias
-
-Mobile
-
-React Native, Expo, Expo Router, React Navigation
-
-Front-End
-
-React, Next.js, TypeScript, JavaScript, Tailwind CSS
-
-Back-End
-
-Node.js, NestJS, Express
-
-Banco de Dados
-
-PostgreSQL, PostGIS, MongoDB, MySQL
-
-ORM
-
-Prisma
-
-Realtime
-
-Socket.IO, WebSockets
-
-Autenticação
-
-JWT, OAuth
-
-Maps & Location
-
-Mapbox, Geolocation
-
-DevOps
-
-Docker, Git, GitHub, Vercel, Render
-
-Ferramentas
-
-Postman, Figma, VS Code
-
-GitHub Analytics
-
-Abaixo estão alguns indicadores da minha atividade e dos projetos que mantenho no GitHub.
-
-
-
-
-Estatísticas
+# 📊 GitHub Analytics
 
 <table>
   <tr>
@@ -402,32 +165,26 @@ Estatísticas
       <img
         width="100%"
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kleitonmac&theme=github_dark"
-        alt="Estatísticas do GitHub"
+        alt="GitHub Stats"
       />
     </td>
     <td width="50%">
       <img
         width="100%"
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark"
-        alt="Linguagens mais utilizadas"
+        alt="Top Languages"
       />
     </td>
   </tr>
 </table>
 
-Visão geral do perfil
-
 <img
 width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kleitonmac&theme=github_dark"
-alt="Resumo do perfil GitHub"
+alt="GitHub Profile Overview"
 />
 
-Principais áreas dos meus repositórios
-
-React Native · React · TypeScript · Node.js · NestJS · PostgreSQL · MongoDB
-
-Contribuições
+### Contribution Activity
 
 <picture>
   <source
@@ -445,35 +202,18 @@ Contribuições
   />
 </picture>
 
-GitHub Profile
+---
 
-Usuário: @kleitonmac
+## 🤝 Vamos conversar?
 
-No GitHub mantenho projetos relacionados principalmente a desenvolvimento:
+Estou aberto a oportunidades e projetos em **Mobile Development, React Native e Full Stack Development**.
 
-Mobile com React Native e Expo
+**LinkedIn:** linkedin.com/in/kleitonmacedo
+**Portfólio:** kleitondev.vercel.app
+**E-mail:** [contatokleimacedo@gmail.com](mailto:contatokleimacedo@gmail.com)
 
-Front-End com React e TypeScript
-
-APIs com Node.js e NestJS
-
-PostgreSQL e MongoDB
-
-Aplicações com comunicação em tempo real
-
-Integrações com serviços externos
-
-Projetos Full Stack em produção
-
-Contato
-
-Estou aberto a oportunidades profissionais e projetos relacionados a Mobile Development, React Native e Full Stack Development.
-
-E-mail: contatokleimacedo@gmail.com
-LinkedIn: linkedin.com/in/kleitonmacedo
-Portfólio: kleitondev.vercel.app
-
-Mobile Developer | Full Stack Developer
-React Native · Expo · React · TypeScript · Node.js · NestJS · PostgreSQL
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=100&section=footer"/>
+<p align="center">
+  <strong>Mobile Developer · Full Stack Developer</strong>
+  <br/>
+  React Native · TypeScript · Node.js · NestJS · PostgreSQL
+</p>
