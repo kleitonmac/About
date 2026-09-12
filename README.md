@@ -12,11 +12,10 @@
     <td width="54%" valign="top">
       <h2>Olá, eu sou Kleiton 👋🏽</h2>
       <p><strong>Mobile Developer | Full Stack Developer</strong></p>
-      <p>Transformo ideias em produtos digitais completos — da experiência mobile à API, banco de dados e infraestrutura.</p>
-      <p>Minha principal stack é <strong>React Native, Expo, React, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
-      <p>Tenho experiência prática com autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos, APIs REST e deploy em produção.</p>
+      <p>Desenvolvo produtos digitais completos, conectando <strong>aplicações mobile, APIs, dados e serviços em tempo real</strong>.</p>
+      <p>Minha principal stack é <strong>React Native, Expo, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
       <p>📍 Serra, Espírito Santo — Brasil</p>
-      <p>🎯 Aberto a oportunidades em desenvolvimento Mobile, React Native e Full Stack.</p>
+      <p>🎯 Aberto a oportunidades em Mobile, React Native e Full Stack.</p>
     </td>
   </tr>
 </table>
@@ -33,16 +32,16 @@
   </a>
 </p>
 
+---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Mobile & Full Stack Developer**, com foco em desenvolvimento de aplicações mobile, APIs e sistemas integrados de ponta a ponta.
+Minha atuação combina **desenvolvimento mobile e backend**, participando desde a arquitetura e implementação da interface até regras de negócio, persistência de dados e integrações externas.
 
-Atuo principalmente com **React Native, Expo, TypeScript, Node.js, NestJS e PostgreSQL**, desenvolvendo soluções que envolvem autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos e integrações com serviços externos.
+Tenho experiência construindo aplicações com **múltiplos perfis de usuário, autenticação segura, mapas e geolocalização, comunicação em tempo real, notificações, pagamentos e processamento de webhooks**.
 
-Tenho especial interesse em produtos que conectam **mobile, backend e dados em tempo real**, transformando regras de negócio complexas em experiências simples para o usuário.
+Busco desenvolver produtos com arquitetura organizada, boa experiência de uso e integração consistente entre **mobile, backend e infraestrutura**.
 
----
 
 ## ⚡ Tech Stack
 
