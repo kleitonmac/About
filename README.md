@@ -59,11 +59,22 @@
 
 ## ABOUT
 
-> kleiton.profile()
+I work across **mobile and backend development**, from application architecture and user interfaces to business logic, APIs, data persistence and external integrations.
 
-TECHNOLOGY STACK
-<div align="center">
+My experience includes products with **multiple user roles, authentication, geolocation, maps, real-time communication, payments, notifications, webhooks and asynchronous workflows**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=Mobile+Engineering;Backend+Architecture;Real-Time+Systems;Geospatial+Applications;API+Design+%26+Integration" alt="Engineering areas" />
+I focus on building maintainable systems with clear architecture and reliable integration between **mobile applications, backend services, databases and infrastructure**.
 
-</div>
+```txt
+Location      Serra, ES · Brazil
+Focus         Mobile Engineering
+Available     Mobile / React Native / Full Stack
+
+Mobile          React Native · Expo · TypeScript
+Backend         NestJS · Node.js · Express · REST APIs
+Realtime        Socket.IO · WebSockets · Push Notifications
+Data            PostgreSQL · PostGIS · Prisma · MongoDB · MySQL
+Maps            Mapbox · Geolocation
+Frontend        React · Next.js · Tailwind CSS · Vite
+Infrastructure  Docker · GitHub · Vercel · Render
+Tools           Git · Postman · Figma
