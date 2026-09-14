@@ -1,13 +1,13 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=18"
 />
 
-<h2 align="center">Mobile Developer | Full Stack Developer</h2>
+<h2 align="center">Mobile Developer · Full-Stack Developer</h2>
 
 <p align="center">
-  Desenvolvo aplicações mobile e plataformas full stack, conectando interfaces,
-  APIs, bancos de dados, serviços em tempo real e integrações externas.
+  I build mobile and full-stack products, connecting
+  <strong>interfaces, APIs, data, real-time systems and external services.</strong>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Localização-Serra%2C%20Espírito%20Santo-2563EB?style=flat-square"
-    alt="Localização"
+    src="https://img.shields.io/badge/Location-Serra%2C%20Brazil-2563EB?style=flat-square"
+    alt="Location"
   />
   <img
-    src="https://img.shields.io/badge/Disponibilidade-Aberto%20a%20oportunidades-111827?style=flat-square"
-    alt="Disponibilidade"
+    src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-111827?style=flat-square"
+    alt="Open to opportunities"
   />
 </p>
 
@@ -34,13 +34,13 @@
   </a>
   <a href="https://kleitondev.vercel.app/">
     <img
-      src="https://img.shields.io/badge/Portfólio-kleitondev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfólio"
+      src="https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
     />
   </a>
   <a href="mailto:contatokleimacedo@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
@@ -48,65 +48,67 @@
 
 ---
 
-## Sobre mim
+## About
 
-Atuo no desenvolvimento de soluções **mobile e full stack**, trabalhando desde a construção da interface e experiência do usuário até arquitetura de APIs, regras de negócio, persistência de dados e integrações externas.
+I work across **mobile and backend development**, from application architecture and user interfaces to business logic, APIs, data persistence and external integrations.
 
-Tenho experiência na construção de aplicações com **múltiplos perfis de usuário, autenticação, geolocalização, mapas, comunicação em tempo real, pagamentos, notificações, webhooks e processamento de dados**.
+My experience includes products with **multiple user roles, authentication, geolocation, maps, real-time communication, payments, notifications, webhooks and asynchronous workflows**.
 
-Meu foco é desenvolver produtos com arquitetura organizada, código sustentável e integração consistente entre **mobile, backend, banco de dados e infraestrutura**.
+I focus on building maintainable systems with clear architecture and reliable integration between **mobile applications, backend services, databases and infrastructure**.
 
 ---
 
-## Stack tecnológica
+## Technology Stack
 
 ### Mobile
 
 React Native · Expo · TypeScript · Expo Router · React Navigation
 
-### Front-End
+### Frontend
 
 React · Next.js · TypeScript · Tailwind CSS · Vite
 
-### Back-End
+### Backend
 
 Node.js · NestJS · Express · REST APIs · Socket.IO
 
-### Dados
+### Data
 
 PostgreSQL · PostGIS · MongoDB · MySQL · Prisma
 
-### Infraestrutura e ferramentas
+### Infrastructure & Tools
 
 Docker · Git · GitHub · Vercel · Render · Postman · Figma
 
-### Tecnologias e integrações
+### Engineering
 
 JWT · OAuth · WebSockets · Mapbox · Geolocation · Webhooks · Push Notifications
 
 ---
 
-## Projetos em destaque
+## Selected Work
 
-### PinkTour
+### 01 / PinkTour
 
-**Plataforma mobile de mobilidade**
+**Mobile Ride-Hailing Platform**
 
-Ecossistema de mobilidade composto por aplicações independentes para **passageiras e motoristas**, conectadas a uma arquitetura backend responsável pelo ciclo completo das corridas.
+A real-time mobility platform composed of dedicated applications for **passengers and drivers**, connected to a backend responsible for managing the complete ride lifecycle.
 
-Desenvolvi funcionalidades relacionadas a **matching de corridas, localização em tempo real, mapas e rotas, autenticação, pagamentos, chat, notificações e recursos de segurança**.
+I developed features related to **ride matching, real-time location, routing, authentication, payments, chat, notifications and safety workflows**.
 
-**Principais implementações**
+**Engineering highlights**
 
-- Aplicações mobile com React Native e Expo
-- Backend modular com NestJS
-- Geolocalização e navegação com Mapbox
-- Comunicação em tempo real com Socket.IO
-- PostgreSQL + PostGIS para dados geoespaciais
-- Autenticação com JWT + Refresh Token
-- Integração de pagamentos e processamento de webhooks
+- Mobile applications built with React Native and Expo
+- Modular backend architecture with NestJS
+- Ride matching and driver dispatch
+- Real-time driver and passenger location
+- Routing and navigation with Mapbox
+- PostgreSQL + PostGIS for geospatial data
+- Real-time communication with Socket.IO
+- JWT authentication with refresh tokens
+- Payment integration and webhook processing
 - Push notifications
-- Chat em tempo real
+- Real-time chat
 
 **Stack**
 
@@ -114,26 +116,26 @@ Desenvolvi funcionalidades relacionadas a **matching de corridas, localização 
 
 ---
 
-### Fluxa Finanças
+### 02 / Fluxa Finance
 
-**Plataforma Full Stack para gestão financeira**
+**Full-Stack Financial Management Platform**
 
-Aplicação desenvolvida para centralizar **finanças, vendas, indicadores e relatórios** em uma única plataforma.
+A financial platform built to centralize **expenses, sales, financial indicators and reports** in a single environment.
 
-A solução contempla autenticação, dashboards financeiros, controle de despesas e vendas, relatórios e mecanismos de proteção da API.
+The system combines frontend dashboards with backend services responsible for authentication, financial data processing, reporting and API security.
 
-**Principais implementações**
+**Engineering highlights**
 
-- Autenticação JWT + Refresh Token
-- OAuth
-- Dashboards financeiros
-- Gestão de despesas
-- Gestão de vendas
-- Exportação CSV
-- Geração de relatórios PDF
-- Documentação de API com Swagger
+- JWT authentication and refresh tokens
+- OAuth authentication
+- Financial dashboards
+- Expense management
+- Sales management
+- CSV exports
+- PDF report generation
+- Swagger API documentation
 - Rate limiting
-- Segurança HTTP
+- HTTP security
 
 **Stack**
 
@@ -141,23 +143,23 @@ A solução contempla autenticação, dashboards financeiros, controle de despes
 
 ---
 
-### TEC Engenharia ES
+### 03 / TEC Engenharia ES
 
-**Website institucional para engenharia elétrica**
+**Corporate Engineering Website**
 
-Projeto desenvolvido para fortalecer a presença digital da empresa e apresentar seus serviços e projetos em uma interface responsiva e otimizada.
+A production website developed for an electrical engineering company, focused on **performance, responsive design and technical SEO**.
 
-**Principais implementações**
+**Engineering highlights**
 
-- Interface responsiva
-- Catálogo de serviços
-- Portfólio de projetos
-- Integração com WhatsApp
-- SEO técnico
-- Open Graph
-- Meta tags
-- Domínio personalizado
-- Deploy em produção
+- Responsive user interface
+- Services catalog
+- Project portfolio
+- WhatsApp integration
+- Technical SEO
+- Open Graph metadata
+- Search engine metadata
+- Custom domain configuration
+- Production deployment
 
 **Stack**
 
@@ -165,46 +167,46 @@ Projeto desenvolvido para fortalecer a presença digital da empresa e apresentar
 
 ---
 
-## Outros projetos
+## Other Projects
 
 ### Barbearia Novo Estilo
 
-Sistema Full Stack de agendamentos com autenticação, painel administrativo e gerenciamento de usuários.
+Full-stack appointment scheduling system with authentication, administrative dashboard and user management.
 
 `React` `TypeScript` `Node.js` `MongoDB`
 
 ### DevTracker
 
-Plataforma para gerenciamento de tarefas com autenticação JWT, rotas protegidas, dashboard e API REST.
+Task management platform with JWT authentication, protected routes, dashboard and REST API.
 
 `React` `TypeScript` `Node.js` `MongoDB`
 
 ### Grão & Aroma
 
-Website institucional responsivo para cafeteria.
+Responsive website developed for a coffee shop.
 
 `HTML` `CSS` `JavaScript`
 
 ### CodeBurguer
 
-Aplicação web com painel administrativo e persistência de dados.
+Web application with administrative dashboard and persistent data storage.
 
 `React` `TypeScript` `MongoDB`
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
   <img
     width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kleitonmac&theme=github_dark"
-    alt="GitHub Stats"
+    alt="GitHub Statistics"
   />
   <img
     width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark"
-    alt="Top Languages"
+    alt="Languages by Repository"
   />
 </p>
 
@@ -236,33 +238,14 @@ Aplicação web com painel administrativo e persistência de dados.
 
 ---
 
-## Contato
+## Current Focus
 
-Estou aberto a oportunidades profissionais e projetos nas áreas de **Mobile Development, React Native e Full Stack Development**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kleitonmacedo/">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://kleitondev.vercel.app/">
-    Portfólio
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:contatokleimacedo@gmail.com">
-    E-mail
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Mobile Developer · Full Stack Developer</strong>
-  <br>
-  React Native · TypeScript · Node.js · NestJS · PostgreSQL
-</p>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=100&section=footer"
-/>
+```txt
+Mobile Engineering
+├── React Native
+├── Expo
+├── TypeScript
+├── Real-Time Systems
+├── Maps & Geolocation
+├── Backend Architecture
+└── PostgreSQL / PostGIS
