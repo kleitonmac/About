@@ -14,8 +14,13 @@
       <p><strong>Mobile Developer | Full Stack Developer</strong></p>
       <p>Desenvolvo produtos digitais completos, conectando <strong>aplicações mobile, APIs, dados e serviços em tempo real</strong>.</p>
       <p>Minha principal stack é <strong>React Native, Expo, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
-      <p>📍 Serra, Espírito Santo — Brasil</p>
-      <p>🎯 Aberto a oportunidades em Mobile, React Native e Full Stack.</p>
+     <p>
+  <img src="https://img.shields.io/badge/Localização-Serra%2C_ES-2563EB?style=flat-square" alt="Localização" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Disponível-Mobile_%7C_React_Native_%7C_Full_Stack-16A34A?style=flat-square" alt="Disponível para oportunidades" />
+</p>
     </td>
   </tr>
 </table>
