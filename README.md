@@ -10,7 +10,7 @@
       />
     </td>
     <td width="54%" valign="top">
-      <h2>Olá, eu sou Kleiton 👋🏽</h2>
+      <h2>Olá, eu sou Kleiton </h2>
       <p><strong>Mobile Developer | Full Stack Developer</strong></p>
       <p>Desenvolvo produtos digitais completos, conectando <strong>aplicações mobile, APIs, dados e serviços em tempo real</strong>.</p>
       <p>Minha principal stack é <strong>React Native, Expo, TypeScript, Node.js, NestJS e PostgreSQL</strong>.</p>
