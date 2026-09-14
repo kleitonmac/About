@@ -1,13 +1,18 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
 />
 
-<h2 align="center">Mobile Developer · Full-Stack Developer</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=Mobile+Developer;Full+Stack+Developer;React+Native+%7C+TypeScript+%7C+Node.js;Building+mobile+products+and+scalable+APIs"
+    alt="Typing introduction"
+  />
+</p>
 
 <p align="center">
-  I build mobile and full-stack products, connecting
-  <strong>interfaces, APIs, data, real-time systems and external services.</strong>
+  I build mobile applications and full-stack products, connecting
+  <strong>mobile interfaces, APIs, databases, real-time services and external integrations.</strong>
 </p>
 
 <p align="center">
@@ -50,65 +55,71 @@
 
 ## About
 
-I work across **mobile and backend development**, from application architecture and user interfaces to business logic, APIs, data persistence and external integrations.
+I work across **mobile and backend development**, from user interfaces and application architecture to business rules, APIs, data persistence and external integrations.
 
-My experience includes products with **multiple user roles, authentication, geolocation, maps, real-time communication, payments, notifications, webhooks and asynchronous workflows**.
+My experience includes applications with **multiple user roles, authentication, geolocation, maps, real-time communication, payments, notifications, webhooks and asynchronous workflows**.
 
-I focus on building maintainable systems with clear architecture and reliable integration between **mobile applications, backend services, databases and infrastructure**.
-
----
-
-## Technology Stack
-
-### Mobile
-
-React Native · Expo · TypeScript · Expo Router · React Navigation
-
-### Frontend
-
-React · Next.js · TypeScript · Tailwind CSS · Vite
-
-### Backend
-
-Node.js · NestJS · Express · REST APIs · Socket.IO
-
-### Data
-
-PostgreSQL · PostGIS · MongoDB · MySQL · Prisma
-
-### Infrastructure & Tools
-
-Docker · Git · GitHub · Vercel · Render · Postman · Figma
-
-### Engineering
-
-JWT · OAuth · WebSockets · Mapbox · Geolocation · Webhooks · Push Notifications
+I focus on building maintainable products with clear architecture and reliable integration between **mobile applications, backend services, databases and infrastructure**.
 
 ---
 
-## Selected Work
+## Tech Stack
 
-### 01 / PinkTour
+<table>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>React Native · Expo · TypeScript · Expo Router · React Navigation</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · TypeScript · Tailwind CSS · Vite</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · NestJS · Express · REST APIs · Socket.IO</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL · PostGIS · MongoDB · MySQL · Prisma</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Docker · Git · GitHub · Vercel · Render</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Postman · Figma</td>
+  </tr>
+</table>
 
-**Mobile Ride-Hailing Platform**
+### Engineering Areas
 
-A real-time mobility platform composed of dedicated applications for **passengers and drivers**, connected to a backend responsible for managing the complete ride lifecycle.
+`Authentication` `JWT` `OAuth` `WebSockets` `Real-time Systems` `Mapbox` `Geolocation` `Webhooks` `Push Notifications` `REST APIs`
 
-I developed features related to **ride matching, real-time location, routing, authentication, payments, chat, notifications and safety workflows**.
+---
+
+## Featured Projects
+
+### PinkTour
+
+**Mobile ride-hailing platform**
+
+A mobility ecosystem composed of independent applications for **passengers and drivers**, connected to a backend architecture responsible for managing the complete ride lifecycle.
+
+I developed functionality involving **ride matching, real-time location, maps and routing, authentication, payments, chat, notifications and safety features**.
 
 **Engineering highlights**
 
-- Mobile applications built with React Native and Expo
+- React Native and Expo mobile applications
 - Modular backend architecture with NestJS
-- Ride matching and driver dispatch
-- Real-time driver and passenger location
-- Routing and navigation with Mapbox
-- PostgreSQL + PostGIS for geospatial data
-- Real-time communication with Socket.IO
+- Map and navigation integration with Mapbox
+- Real-time communication using Socket.IO
+- Geospatial data with PostgreSQL and PostGIS
 - JWT authentication with refresh tokens
 - Payment integration and webhook processing
-- Push notifications
+- Push notification infrastructure
 - Real-time chat
+- Driver/passenger ride lifecycle management
 
 **Stack**
 
@@ -116,13 +127,13 @@ I developed features related to **ride matching, real-time location, routing, au
 
 ---
 
-### 02 / Fluxa Finance
+### Fluxa Finance
 
-**Full-Stack Financial Management Platform**
+**Full-stack financial management platform**
 
-A financial platform built to centralize **expenses, sales, financial indicators and reports** in a single environment.
+A financial platform built to centralize **expenses, sales, financial indicators and reports** within a single system.
 
-The system combines frontend dashboards with backend services responsible for authentication, financial data processing, reporting and API security.
+The application includes authentication, dashboards, expense and sales management, reporting and API security mechanisms.
 
 **Engineering highlights**
 
@@ -143,11 +154,11 @@ The system combines frontend dashboards with backend services responsible for au
 
 ---
 
-### 03 / TEC Engenharia ES
+### TEC Engenharia ES
 
-**Corporate Engineering Website**
+**Corporate website for an electrical engineering company**
 
-A production website developed for an electrical engineering company, focused on **performance, responsive design and technical SEO**.
+A production website designed to strengthen the company's digital presence and present its engineering services and projects through a responsive and optimized interface.
 
 **Engineering highlights**
 
@@ -183,7 +194,7 @@ Task management platform with JWT authentication, protected routes, dashboard an
 
 ### Grão & Aroma
 
-Responsive website developed for a coffee shop.
+Responsive corporate website for a coffee shop.
 
 `HTML` `CSS` `JavaScript`
 
@@ -206,7 +217,7 @@ Web application with administrative dashboard and persistent data storage.
   <img
     width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark"
-    alt="Languages by Repository"
+    alt="Languages by repository"
   />
 </p>
 
@@ -238,14 +249,33 @@ Web application with administrative dashboard and persistent data storage.
 
 ---
 
-## Current Focus
+## Contact
 
-```txt
-Mobile Engineering
-├── React Native
-├── Expo
-├── TypeScript
-├── Real-Time Systems
-├── Maps & Geolocation
-├── Backend Architecture
-└── PostgreSQL / PostGIS
+I am open to opportunities in **Mobile Development, React Native and Full Stack Development**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kleitonmacedo/">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://kleitondev.vercel.app/">
+    Portfolio
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:contatokleimacedo@gmail.com">
+    Email
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Mobile Developer · Full Stack Developer</strong>
+  <br><br>
+  React Native · TypeScript · Node.js · NestJS · PostgreSQL
+</p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=100&section=footer"
+/>
