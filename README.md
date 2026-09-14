@@ -255,15 +255,24 @@ I am open to opportunities in **Mobile Development, React Native and Full Stack 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kleitonmacedo/">
-    LinkedIn
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;
   <a href="https://kleitondev.vercel.app/">
-    Portfolio
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:contatokleimacedo@gmail.com">
-    Email
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
