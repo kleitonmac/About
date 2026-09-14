@@ -1,281 +1,172 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=180&section=header&text=Kleiton%20Macedo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
-/>
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=Mobile+Developer;Full+Stack+Developer;React+Native+%7C+TypeScript+%7C+Node.js;Building+mobile+products+and+scalable+APIs"
-    alt="Typing introduction"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  I build mobile applications and full-stack products, connecting
-  <strong>mobile interfaces, APIs, databases, real-time services and external integrations.</strong>
-</p>
+# KLEITON MACEDO
 
-<p align="center">
-  <strong>React Native · Expo · TypeScript · Node.js · NestJS · PostgreSQL</strong>
-</p>
+### Mobile Developer · Full-Stack Developer
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Location-Serra%2C%20Brazil-2563EB?style=flat-square"
-    alt="Location"
-  />
-  <img
-    src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-111827?style=flat-square"
-    alt="Open to opportunities"
-  />
-</p>
+```txt
+> building mobile products_
+> designing real-time systems_
+> React Native / TypeScript / Node.js_
+<a href="https://www.linkedin.com/in/kleitonmacedo/"> <img src="https://img.shields.io/badge/LinkedIn-Kleiton%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://kleitondev.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </div>
+ABOUT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kleitonmacedo/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Kleiton%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://kleitondev.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-kleitondev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="mailto:contatokleimacedo@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+Mobile-focused software developer working across applications, APIs, real-time systems and infrastructure.
 
----
+Currently building production-oriented products with React Native, Expo, TypeScript, NestJS and PostgreSQL.
 
-## About
+Location      Serra, ES · Brazil
+Focus         Mobile Engineering
+Available     Mobile / React Native / Full Stack
+TECHNOLOGY
+Mobile          React Native · Expo · TypeScript
+Backend         NestJS · Node.js · REST · WebSockets
+Data            PostgreSQL · PostGIS · Prisma
+Realtime        Socket.IO · Push Notifications
+Maps            Mapbox · Geolocation
+Infrastructure  Docker · GitHub · Vercel
+SELECTED WORK
+01 / PINKTOUR
 
-I work across **mobile and backend development**, from user interfaces and application architecture to business rules, APIs, data persistence and external integrations.
+Mobile Ride-Hailing Platform
 
-My experience includes applications with **multiple user roles, authentication, geolocation, maps, real-time communication, payments, notifications, webhooks and asynchronous workflows**.
+React Native / NestJS / PostgreSQL / PostGIS / Mapbox
 
-I focus on building maintainable products with clear architecture and reliable integration between **mobile applications, backend services, databases and infrastructure**.
+A real-time mobility platform composed of dedicated passenger and driver applications.
 
----
+The platform handles the complete ride lifecycle, from request and driver matching to real-time navigation, payments and trip completion.
 
-## Tech Stack
+Architecture
 
-<table>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>React Native · Expo · TypeScript · Expo Router · React Navigation</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React · Next.js · TypeScript · Tailwind CSS · Vite</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · NestJS · Express · REST APIs · Socket.IO</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL · PostGIS · MongoDB · MySQL · Prisma</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Docker · Git · GitHub · Vercel · Render</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Postman · Figma</td>
-  </tr>
-</table>
+PinkTour
+├── Passenger Application
+├── Driver Application
+├── Ride Matching Engine
+├── Real-Time Location
+├── Route & Navigation System
+├── Payment Processing
+├── WebSocket Communication
+├── Push Notifications
+├── Safety Features
+└── Geospatial Infrastructure
 
-### Engineering Areas
+Core engineering
 
-`Authentication` `JWT` `OAuth` `WebSockets` `Real-time Systems` `Mapbox` `Geolocation` `Webhooks` `Push Notifications` `REST APIs`
+React Native and Expo mobile applications
+Modular NestJS backend
+Ride matching and driver dispatch
+Real-time driver and passenger location
+Mapbox routing and navigation
+PostgreSQL + PostGIS geospatial queries
+Socket.IO real-time communication
+JWT authentication and refresh tokens
+Payment integration and webhook processing
+Push notifications
+Real-time chat
 
----
+Stack
 
-## Featured Projects
+React Native Expo TypeScript NestJS PostgreSQL PostGIS Prisma Socket.IO Mapbox Docker
 
-### PinkTour
+02 / FLUXA
 
-**Mobile ride-hailing platform**
+Financial Management Platform
 
-A mobility ecosystem composed of independent applications for **passengers and drivers**, connected to a backend architecture responsible for managing the complete ride lifecycle.
+React / TypeScript / Node.js / PostgreSQL
 
-I developed functionality involving **ride matching, real-time location, maps and routing, authentication, payments, chat, notifications and safety features**.
+Full-stack financial platform for managing expenses, sales, financial indicators and reports.
 
-**Engineering highlights**
+The application combines frontend dashboards with backend services responsible for authentication, financial data processing and reporting.
 
-- React Native and Expo mobile applications
-- Modular backend architecture with NestJS
-- Map and navigation integration with Mapbox
-- Real-time communication using Socket.IO
-- Geospatial data with PostgreSQL and PostGIS
-- JWT authentication with refresh tokens
-- Payment integration and webhook processing
-- Push notification infrastructure
-- Real-time chat
-- Driver/passenger ride lifecycle management
+Core engineering
 
-**Stack**
+JWT authentication and refresh tokens
+OAuth authentication
+Financial dashboards
+Expense management
+Sales management
+CSV export
+PDF reporting
+Swagger API documentation
+Rate limiting
+HTTP security
 
-`React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `Socket.IO` `Mapbox` `Docker`
+Stack
 
----
+React TypeScript Vite Tailwind CSS Node.js Express PostgreSQL JWT Swagger
 
-### Fluxa Finance
+03 / TEC ENGENHARIA ES
 
-**Full-stack financial management platform**
+Corporate Engineering Platform
 
-A financial platform built to centralize **expenses, sales, financial indicators and reports** within a single system.
+React / TypeScript / Vercel
 
-The application includes authentication, dashboards, expense and sales management, reporting and API security mechanisms.
+Production website developed for an electrical engineering company, focused on performance, responsive interfaces and technical SEO.
 
-**Engineering highlights**
+Core engineering
 
-- JWT authentication and refresh tokens
-- OAuth authentication
-- Financial dashboards
-- Expense management
-- Sales management
-- CSV exports
-- PDF report generation
-- Swagger API documentation
-- Rate limiting
-- HTTP security
+Responsive interface
+Services catalog
+Project portfolio
+WhatsApp integration
+Technical SEO
+Open Graph metadata
+Custom domain configuration
+Production deployment
 
-**Stack**
+Stack
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `JWT` `Swagger`
+React TypeScript Vercel
 
----
-
-### TEC Engenharia ES
-
-**Corporate website for an electrical engineering company**
-
-A production website designed to strengthen the company's digital presence and present its engineering services and projects through a responsive and optimized interface.
-
-**Engineering highlights**
-
-- Responsive user interface
-- Services catalog
-- Project portfolio
-- WhatsApp integration
-- Technical SEO
-- Open Graph metadata
-- Search engine metadata
-- Custom domain configuration
-- Production deployment
-
-**Stack**
-
-`React` `TypeScript` `Vercel`
-
----
-
-## Other Projects
-
-### Barbearia Novo Estilo
+OTHER PROJECTS
+Barbearia Novo Estilo
 
 Full-stack appointment scheduling system with authentication, administrative dashboard and user management.
 
-`React` `TypeScript` `Node.js` `MongoDB`
+React TypeScript Node.js MongoDB
 
-### DevTracker
+DevTracker
 
 Task management platform with JWT authentication, protected routes, dashboard and REST API.
 
-`React` `TypeScript` `Node.js` `MongoDB`
+React TypeScript Node.js MongoDB
 
-### Grão & Aroma
+Grão & Aroma
 
 Responsive corporate website for a coffee shop.
 
-`HTML` `CSS` `JavaScript`
+HTML CSS JavaScript
 
-### CodeBurguer
+CodeBurguer
 
 Web application with administrative dashboard and persistent data storage.
 
-`React` `TypeScript` `MongoDB`
+React TypeScript MongoDB
 
----
+GITHUB ACTIVITY
+<p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kleitonmac&theme=github_dark" alt="GitHub Stats" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark" alt="Top Languages" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kleitonmac&theme=github_dark" alt="GitHub Profile Details" /> </p>
+Contribution Activity
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg" /> <img width="100%" alt="GitHub Contribution Grid" src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg" /> </picture>
+CURRENTLY WORKING WITH
+React Native  ·  TypeScript  ·  NestJS
+PostgreSQL    ·  PostGIS     ·  Mapbox
+<div align="center">
+KLEITON MACEDO
 
-## GitHub Activity
+Mobile Developer · Full-Stack Developer
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kleitonmac&theme=github_dark"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleitonmac&theme=github_dark"
-    alt="Languages by repository"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kleitonmac&theme=github_dark"
-    alt="GitHub Profile Overview"
-  />
-</p>
-
-### Contribution Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="GitHub Contribution Grid"
-    src="https://raw.githubusercontent.com/kleitonmac/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-## Contact
-
-I am open to opportunities in **Mobile Development, React Native and Full Stack Development**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kleitonmacedo/">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://kleitondev.vercel.app/">
-    Portfolio
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:contatokleimacedo@gmail.com">
-    Email
-  </a>
-</p>
+React Native · TypeScript · Node.js · NestJS · PostgreSQL
 
 <br>
 
-<p align="center">
-  <strong>Mobile Developer · Full Stack Developer</strong>
-  <br><br>
-  React Native · TypeScript · Node.js · NestJS · PostgreSQL
-</p>
+<a href="https://www.linkedin.com/in/kleitonmacedo/">LinkedIn</a>
+  ·  
+<a href="https://kleitondev.vercel.app/">Portfolio</a>
+  ·  
+<a href="mailto:contatokleimacedo@gmail.com">Email</a>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E40AF,100:0F172A&height=100&section=footer"
-/>
+</div> ```
