@@ -154,25 +154,7 @@ The application includes authentication, dashboards, expense and sales managemen
 
 ---
 
-### TEC Engenharia ES
 
-**Corporate website for an electrical engineering company**
-
-A production website designed to strengthen the company's digital presence and present its engineering services and projects through a responsive and optimized interface.
-
-**Engineering highlights**
-
-- Responsive user interface
-- Services catalog
-- Project portfolio
-- WhatsApp integration
-- Technical SEO
-- Open Graph metadata
-- Search engine metadata
-- Custom domain configuration
-- Production deployment
-
-**Stack**
 
 `React` `TypeScript` `Vercel`
 
